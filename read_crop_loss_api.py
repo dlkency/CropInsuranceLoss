@@ -3,54 +3,58 @@ import zipfile
 import io
 import os
 
-# this code reads hurricane track data from nhc
-# unzips the drives and stores the shapefiles
-# including points, lines, radius, and windswath
-# web address of data directory
-type_practice_usage_url = 'https://www.rma.usda.gov/sites/default/files/'
-folder1 = 'information-tools/'
-folder2 = '2024-09/'
-ender = '.zip' # multiple file types in directory
+# Downloads USDA RMA crop insurance loss data (1989-2025) and extracts zip archives locally.
+BASE_URL = 'https://www.rma.usda.gov/sites/default/files/'
+FOLDERS = ['information-tools/', '2024-09/']
+OUTPUT_DIR = 'crop_loss_data'
+START_YEAR = 1989
+END_YEAR = 2025
 
-# local directory for extracted data
-output_dir = 'crop_loss_data'
+FILE_TYPES = {
+    'type_practice_usage': 'sobtpu_',
+    'state_county_crop': 'sobcov_',
+    'cost_of_loss': 'colsom_',
+}
 
-# data availability on web directory is 1989-2025
-start_year = 1989
-end_year = 2025
 
-# create directory for storing shapefile output
-os.makedirs(output_dir, exist_ok = True)
+def download_zip(url, timeout=60, retries=2):
+    """Return a ZipFile for a valid zip response, or None."""
+    for attempt in range(retries):
+        try:
+            response = requests.get(url, timeout=timeout)
+            response.raise_for_status()
+            content = response.content
+            if content[:2] != b'PK':
+                return None
+            return zipfile.ZipFile(io.BytesIO(content))
+        except requests.RequestException:
+            if attempt + 1 == retries:
+                return None
+    return None
 
-file_types = ['type_practice_usage', 'state_county_crop', 'cost_of_loss']
-file_names = ['sobtpu_', 'sobcov_', 'colsom_']
-# loop through each of the crop insurance file types
-for name_of_data, file_ender_name in zip(file_types, file_names):
-  # create directory to store each file type
-  output_directory_year = os.path.join(output_dir, name_of_data)
-  os.makedirs(output_directory_year, exist_ok = True)
-  # loop through years
-  for year_use in range(start_year, end_year + 1):
-    print('Reading ' + name_of_data + ' from year ' + str(year_use))
-    # data names/pathways change over the course of the historical period
-    # it will be one of these two names, we just need to try reading them both
-    # save whichever file produces a download
-    for folder_look in [folder1, folder2]:
-      try:
-        response = requests.get(type_practice_usage_url + folder_look + file_ender_name + str(year_use) + ender, stream=True)
-        z = zipfile.ZipFile(io.BytesIO(response.content))
-      except:
-        pass
-    
-    # unzip the file that is downloaded into the folder created above
-    try:
-      z.extractall(output_directory_year)
-    except:
-      pass
-    # delete the file from memory
-    # some data types don't start until 1999, 1989-1988 will display 'read fail'
-    try:
-      del z
-    except:
-      print('Read Fail ' + name_of_data + ' ' + str(year_use))
-    
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+for name_of_data, file_prefix in FILE_TYPES.items():
+    output_directory_year = os.path.join(OUTPUT_DIR, name_of_data)
+    os.makedirs(output_directory_year, exist_ok=True)
+
+    for year_use in range(START_YEAR, END_YEAR + 1):
+        print(f'Reading {name_of_data} from year {year_use}')
+
+        z = None
+        for folder in FOLDERS:
+            url = f'{BASE_URL}{folder}{file_prefix}{year_use}.zip'
+            z = download_zip(url)
+            if z is not None:
+                break
+
+        if z is None:
+            # Some data types don't start until 1999; missing years print 'Read Fail'.
+            print(f'Read Fail {name_of_data} {year_use}')
+            continue
+
+        try:
+            z.extractall(output_directory_year)
+        finally:
+            z.close()
