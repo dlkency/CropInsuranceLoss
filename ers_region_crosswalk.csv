@@ -1,0 +1,3113 @@
+fips,frr,ers_region
+01001,6,Southern Seaboard
+01003,6,Southern Seaboard
+01005,6,Southern Seaboard
+01007,5,Eastern Uplands
+01009,5,Eastern Uplands
+01011,6,Southern Seaboard
+01013,6,Southern Seaboard
+01015,5,Eastern Uplands
+01017,6,Southern Seaboard
+01019,5,Eastern Uplands
+01021,5,Eastern Uplands
+01023,6,Southern Seaboard
+01025,6,Southern Seaboard
+01027,6,Southern Seaboard
+01029,5,Eastern Uplands
+01031,6,Southern Seaboard
+01033,6,Southern Seaboard
+01035,6,Southern Seaboard
+01037,6,Southern Seaboard
+01039,6,Southern Seaboard
+01041,6,Southern Seaboard
+01043,5,Eastern Uplands
+01045,6,Southern Seaboard
+01047,6,Southern Seaboard
+01049,5,Eastern Uplands
+01051,6,Southern Seaboard
+01053,6,Southern Seaboard
+01055,5,Eastern Uplands
+01057,6,Southern Seaboard
+01059,6,Southern Seaboard
+01061,6,Southern Seaboard
+01063,6,Southern Seaboard
+01065,6,Southern Seaboard
+01067,6,Southern Seaboard
+01069,6,Southern Seaboard
+01071,5,Eastern Uplands
+01073,5,Eastern Uplands
+01075,6,Southern Seaboard
+01077,5,Eastern Uplands
+01079,5,Eastern Uplands
+01081,6,Southern Seaboard
+01083,5,Eastern Uplands
+01085,6,Southern Seaboard
+01087,6,Southern Seaboard
+01089,5,Eastern Uplands
+01091,6,Southern Seaboard
+01093,6,Southern Seaboard
+01095,5,Eastern Uplands
+01097,6,Southern Seaboard
+01099,6,Southern Seaboard
+01101,6,Southern Seaboard
+01103,5,Eastern Uplands
+01105,6,Southern Seaboard
+01107,6,Southern Seaboard
+01109,6,Southern Seaboard
+01111,6,Southern Seaboard
+01113,6,Southern Seaboard
+01115,5,Eastern Uplands
+01117,5,Eastern Uplands
+01119,6,Southern Seaboard
+01121,6,Southern Seaboard
+01123,6,Southern Seaboard
+01125,6,Southern Seaboard
+01127,5,Eastern Uplands
+01129,6,Southern Seaboard
+01131,6,Southern Seaboard
+01133,5,Eastern Uplands
+04001,8,Basin and Range
+04003,7,Fruitful Rim
+04005,7,Fruitful Rim
+04007,7,Fruitful Rim
+04009,7,Fruitful Rim
+04011,8,Basin and Range
+04012,7,Fruitful Rim
+04013,7,Fruitful Rim
+04015,8,Basin and Range
+04017,7,Fruitful Rim
+04019,7,Fruitful Rim
+04021,7,Fruitful Rim
+04023,7,Fruitful Rim
+04025,8,Basin and Range
+04027,7,Fruitful Rim
+05001,9,Mississippi Portal
+05003,9,Mississippi Portal
+05005,5,Eastern Uplands
+05007,5,Eastern Uplands
+05009,5,Eastern Uplands
+05011,6,Southern Seaboard
+05013,6,Southern Seaboard
+05015,5,Eastern Uplands
+05017,9,Mississippi Portal
+05019,6,Southern Seaboard
+05021,9,Mississippi Portal
+05023,5,Eastern Uplands
+05025,6,Southern Seaboard
+05027,6,Southern Seaboard
+05029,5,Eastern Uplands
+05031,9,Mississippi Portal
+05033,5,Eastern Uplands
+05035,9,Mississippi Portal
+05037,9,Mississippi Portal
+05039,6,Southern Seaboard
+05041,9,Mississippi Portal
+05043,9,Mississippi Portal
+05045,5,Eastern Uplands
+05047,5,Eastern Uplands
+05049,5,Eastern Uplands
+05051,5,Eastern Uplands
+05053,5,Eastern Uplands
+05055,9,Mississippi Portal
+05057,5,Eastern Uplands
+05059,5,Eastern Uplands
+05061,5,Eastern Uplands
+05063,9,Mississippi Portal
+05065,5,Eastern Uplands
+05067,9,Mississippi Portal
+05069,9,Mississippi Portal
+05071,5,Eastern Uplands
+05073,5,Eastern Uplands
+05075,9,Mississippi Portal
+05077,9,Mississippi Portal
+05079,9,Mississippi Portal
+05081,5,Eastern Uplands
+05083,5,Eastern Uplands
+05085,9,Mississippi Portal
+05087,5,Eastern Uplands
+05089,5,Eastern Uplands
+05091,5,Eastern Uplands
+05093,9,Mississippi Portal
+05095,9,Mississippi Portal
+05097,5,Eastern Uplands
+05099,6,Southern Seaboard
+05101,5,Eastern Uplands
+05103,6,Southern Seaboard
+05105,5,Eastern Uplands
+05107,9,Mississippi Portal
+05109,5,Eastern Uplands
+05111,9,Mississippi Portal
+05113,5,Eastern Uplands
+05115,5,Eastern Uplands
+05117,9,Mississippi Portal
+05119,5,Eastern Uplands
+05121,9,Mississippi Portal
+05123,9,Mississippi Portal
+05125,5,Eastern Uplands
+05127,5,Eastern Uplands
+05129,5,Eastern Uplands
+05131,5,Eastern Uplands
+05133,5,Eastern Uplands
+05135,5,Eastern Uplands
+05137,5,Eastern Uplands
+05139,6,Southern Seaboard
+05141,5,Eastern Uplands
+05143,5,Eastern Uplands
+05145,9,Mississippi Portal
+05147,9,Mississippi Portal
+05149,5,Eastern Uplands
+06001,7,Fruitful Rim
+06003,8,Basin and Range
+06005,8,Basin and Range
+06007,7,Fruitful Rim
+06009,8,Basin and Range
+06011,7,Fruitful Rim
+06013,7,Fruitful Rim
+06015,8,Basin and Range
+06017,8,Basin and Range
+06019,7,Fruitful Rim
+06021,7,Fruitful Rim
+06023,8,Basin and Range
+06025,7,Fruitful Rim
+06027,8,Basin and Range
+06029,7,Fruitful Rim
+06031,7,Fruitful Rim
+06033,7,Fruitful Rim
+06035,8,Basin and Range
+06037,7,Fruitful Rim
+06039,7,Fruitful Rim
+06041,7,Fruitful Rim
+06043,8,Basin and Range
+06045,8,Basin and Range
+06047,7,Fruitful Rim
+06049,8,Basin and Range
+06051,8,Basin and Range
+06053,7,Fruitful Rim
+06055,7,Fruitful Rim
+06057,8,Basin and Range
+06059,7,Fruitful Rim
+06061,8,Basin and Range
+06063,8,Basin and Range
+06065,7,Fruitful Rim
+06067,7,Fruitful Rim
+06069,7,Fruitful Rim
+06071,7,Fruitful Rim
+06073,7,Fruitful Rim
+06075,7,Fruitful Rim
+06077,7,Fruitful Rim
+06079,7,Fruitful Rim
+06081,7,Fruitful Rim
+06083,7,Fruitful Rim
+06085,7,Fruitful Rim
+06087,7,Fruitful Rim
+06089,8,Basin and Range
+06091,8,Basin and Range
+06093,8,Basin and Range
+06095,7,Fruitful Rim
+06097,7,Fruitful Rim
+06099,7,Fruitful Rim
+06101,7,Fruitful Rim
+06103,7,Fruitful Rim
+06105,8,Basin and Range
+06107,7,Fruitful Rim
+06109,8,Basin and Range
+06111,7,Fruitful Rim
+06113,7,Fruitful Rim
+06115,7,Fruitful Rim
+08001,4,Prairie Gateway
+08003,8,Basin and Range
+08005,4,Prairie Gateway
+08007,8,Basin and Range
+08009,4,Prairie Gateway
+08011,4,Prairie Gateway
+08013,3,Northern Great Plains
+08015,8,Basin and Range
+08017,4,Prairie Gateway
+08019,8,Basin and Range
+08021,8,Basin and Range
+08023,8,Basin and Range
+08025,4,Prairie Gateway
+08027,4,Prairie Gateway
+08029,8,Basin and Range
+08031,4,Prairie Gateway
+08033,8,Basin and Range
+08035,4,Prairie Gateway
+08037,8,Basin and Range
+08039,4,Prairie Gateway
+08041,4,Prairie Gateway
+08043,4,Prairie Gateway
+08045,8,Basin and Range
+08047,8,Basin and Range
+08049,8,Basin and Range
+08051,8,Basin and Range
+08053,8,Basin and Range
+08055,4,Prairie Gateway
+08057,8,Basin and Range
+08059,3,Northern Great Plains
+08061,4,Prairie Gateway
+08063,4,Prairie Gateway
+08065,8,Basin and Range
+08067,8,Basin and Range
+08069,3,Northern Great Plains
+08071,4,Prairie Gateway
+08073,4,Prairie Gateway
+08075,3,Northern Great Plains
+08077,8,Basin and Range
+08079,8,Basin and Range
+08081,8,Basin and Range
+08083,8,Basin and Range
+08085,8,Basin and Range
+08087,3,Northern Great Plains
+08089,4,Prairie Gateway
+08091,8,Basin and Range
+08093,8,Basin and Range
+08095,4,Prairie Gateway
+08097,8,Basin and Range
+08099,4,Prairie Gateway
+08101,4,Prairie Gateway
+08103,8,Basin and Range
+08105,8,Basin and Range
+08107,8,Basin and Range
+08109,8,Basin and Range
+08111,8,Basin and Range
+08113,8,Basin and Range
+08115,3,Northern Great Plains
+08117,8,Basin and Range
+08119,8,Basin and Range
+08121,4,Prairie Gateway
+08123,3,Northern Great Plains
+08125,4,Prairie Gateway
+09001,2,Northern Crescent
+09003,2,Northern Crescent
+09005,2,Northern Crescent
+09007,2,Northern Crescent
+09009,2,Northern Crescent
+09011,2,Northern Crescent
+09013,2,Northern Crescent
+09015,2,Northern Crescent
+10001,6,Southern Seaboard
+10003,6,Southern Seaboard
+10005,6,Southern Seaboard
+11001,6,Southern Seaboard
+12001,7,Fruitful Rim
+12003,7,Fruitful Rim
+12005,7,Fruitful Rim
+12007,7,Fruitful Rim
+12009,7,Fruitful Rim
+12011,7,Fruitful Rim
+12013,7,Fruitful Rim
+12015,7,Fruitful Rim
+12017,7,Fruitful Rim
+12019,7,Fruitful Rim
+12021,7,Fruitful Rim
+12023,7,Fruitful Rim
+12025,7,Fruitful Rim
+12027,7,Fruitful Rim
+12029,7,Fruitful Rim
+12031,7,Fruitful Rim
+12033,7,Fruitful Rim
+12035,7,Fruitful Rim
+12037,7,Fruitful Rim
+12039,7,Fruitful Rim
+12041,7,Fruitful Rim
+12043,7,Fruitful Rim
+12045,7,Fruitful Rim
+12047,7,Fruitful Rim
+12049,7,Fruitful Rim
+12051,7,Fruitful Rim
+12053,7,Fruitful Rim
+12055,7,Fruitful Rim
+12057,7,Fruitful Rim
+12059,7,Fruitful Rim
+12061,7,Fruitful Rim
+12063,7,Fruitful Rim
+12065,7,Fruitful Rim
+12067,7,Fruitful Rim
+12069,7,Fruitful Rim
+12071,7,Fruitful Rim
+12073,7,Fruitful Rim
+12075,7,Fruitful Rim
+12077,7,Fruitful Rim
+12079,7,Fruitful Rim
+12081,7,Fruitful Rim
+12083,7,Fruitful Rim
+12085,7,Fruitful Rim
+12087,7,Fruitful Rim
+12089,7,Fruitful Rim
+12091,7,Fruitful Rim
+12093,7,Fruitful Rim
+12095,7,Fruitful Rim
+12097,7,Fruitful Rim
+12099,7,Fruitful Rim
+12101,7,Fruitful Rim
+12103,7,Fruitful Rim
+12105,7,Fruitful Rim
+12107,7,Fruitful Rim
+12109,7,Fruitful Rim
+12111,7,Fruitful Rim
+12113,7,Fruitful Rim
+12115,7,Fruitful Rim
+12117,7,Fruitful Rim
+12119,7,Fruitful Rim
+12121,7,Fruitful Rim
+12123,7,Fruitful Rim
+12125,7,Fruitful Rim
+12127,7,Fruitful Rim
+12129,7,Fruitful Rim
+12131,7,Fruitful Rim
+12133,7,Fruitful Rim
+13001,7,Fruitful Rim
+13003,6,Southern Seaboard
+13005,7,Fruitful Rim
+13007,6,Southern Seaboard
+13009,6,Southern Seaboard
+13011,6,Southern Seaboard
+13013,6,Southern Seaboard
+13015,5,Eastern Uplands
+13017,6,Southern Seaboard
+13019,6,Southern Seaboard
+13021,6,Southern Seaboard
+13023,6,Southern Seaboard
+13025,7,Fruitful Rim
+13027,6,Southern Seaboard
+13029,7,Fruitful Rim
+13031,6,Southern Seaboard
+13033,6,Southern Seaboard
+13035,6,Southern Seaboard
+13037,6,Southern Seaboard
+13039,7,Fruitful Rim
+13043,6,Southern Seaboard
+13045,6,Southern Seaboard
+13047,5,Eastern Uplands
+13049,7,Fruitful Rim
+13051,7,Fruitful Rim
+13053,6,Southern Seaboard
+13055,5,Eastern Uplands
+13057,6,Southern Seaboard
+13059,6,Southern Seaboard
+13061,6,Southern Seaboard
+13063,6,Southern Seaboard
+13065,6,Southern Seaboard
+13067,6,Southern Seaboard
+13069,6,Southern Seaboard
+13071,6,Southern Seaboard
+13073,6,Southern Seaboard
+13075,6,Southern Seaboard
+13077,6,Southern Seaboard
+13079,6,Southern Seaboard
+13081,6,Southern Seaboard
+13083,5,Eastern Uplands
+13085,6,Southern Seaboard
+13087,6,Southern Seaboard
+13089,6,Southern Seaboard
+13091,6,Southern Seaboard
+13093,6,Southern Seaboard
+13095,6,Southern Seaboard
+13097,6,Southern Seaboard
+13099,6,Southern Seaboard
+13101,6,Southern Seaboard
+13103,6,Southern Seaboard
+13105,6,Southern Seaboard
+13107,6,Southern Seaboard
+13109,7,Fruitful Rim
+13111,6,Southern Seaboard
+13113,6,Southern Seaboard
+13115,5,Eastern Uplands
+13117,6,Southern Seaboard
+13119,6,Southern Seaboard
+13121,6,Southern Seaboard
+13123,6,Southern Seaboard
+13125,6,Southern Seaboard
+13127,7,Fruitful Rim
+13129,5,Eastern Uplands
+13131,6,Southern Seaboard
+13133,6,Southern Seaboard
+13135,6,Southern Seaboard
+13137,6,Southern Seaboard
+13139,6,Southern Seaboard
+13141,6,Southern Seaboard
+13143,6,Southern Seaboard
+13145,6,Southern Seaboard
+13147,6,Southern Seaboard
+13149,6,Southern Seaboard
+13151,6,Southern Seaboard
+13153,6,Southern Seaboard
+13155,6,Southern Seaboard
+13157,6,Southern Seaboard
+13159,6,Southern Seaboard
+13161,6,Southern Seaboard
+13163,6,Southern Seaboard
+13165,6,Southern Seaboard
+13167,6,Southern Seaboard
+13169,6,Southern Seaboard
+13171,6,Southern Seaboard
+13173,6,Southern Seaboard
+13175,6,Southern Seaboard
+13177,6,Southern Seaboard
+13179,7,Fruitful Rim
+13181,6,Southern Seaboard
+13183,7,Fruitful Rim
+13185,6,Southern Seaboard
+13187,6,Southern Seaboard
+13189,6,Southern Seaboard
+13191,7,Fruitful Rim
+13193,6,Southern Seaboard
+13195,6,Southern Seaboard
+13197,6,Southern Seaboard
+13199,6,Southern Seaboard
+13201,6,Southern Seaboard
+13205,6,Southern Seaboard
+13207,6,Southern Seaboard
+13209,6,Southern Seaboard
+13211,6,Southern Seaboard
+13213,5,Eastern Uplands
+13215,6,Southern Seaboard
+13217,6,Southern Seaboard
+13219,6,Southern Seaboard
+13221,6,Southern Seaboard
+13223,5,Eastern Uplands
+13225,6,Southern Seaboard
+13227,6,Southern Seaboard
+13229,7,Fruitful Rim
+13231,6,Southern Seaboard
+13233,5,Eastern Uplands
+13235,6,Southern Seaboard
+13237,6,Southern Seaboard
+13239,6,Southern Seaboard
+13241,6,Southern Seaboard
+13243,6,Southern Seaboard
+13245,6,Southern Seaboard
+13247,6,Southern Seaboard
+13249,6,Southern Seaboard
+13251,6,Southern Seaboard
+13253,6,Southern Seaboard
+13255,6,Southern Seaboard
+13257,6,Southern Seaboard
+13259,6,Southern Seaboard
+13261,6,Southern Seaboard
+13263,6,Southern Seaboard
+13265,6,Southern Seaboard
+13267,7,Fruitful Rim
+13269,6,Southern Seaboard
+13271,6,Southern Seaboard
+13273,6,Southern Seaboard
+13275,6,Southern Seaboard
+13277,6,Southern Seaboard
+13279,7,Fruitful Rim
+13281,6,Southern Seaboard
+13283,6,Southern Seaboard
+13285,6,Southern Seaboard
+13287,6,Southern Seaboard
+13289,6,Southern Seaboard
+13291,6,Southern Seaboard
+13293,6,Southern Seaboard
+13295,5,Eastern Uplands
+13297,6,Southern Seaboard
+13299,7,Fruitful Rim
+13301,6,Southern Seaboard
+13303,6,Southern Seaboard
+13305,7,Fruitful Rim
+13307,6,Southern Seaboard
+13309,6,Southern Seaboard
+13311,6,Southern Seaboard
+13313,5,Eastern Uplands
+13315,6,Southern Seaboard
+13317,6,Southern Seaboard
+13319,6,Southern Seaboard
+13321,6,Southern Seaboard
+16001,7,Fruitful Rim
+16003,7,Fruitful Rim
+16005,7,Fruitful Rim
+16007,7,Fruitful Rim
+16009,8,Basin and Range
+16011,7,Fruitful Rim
+16013,7,Fruitful Rim
+16015,7,Fruitful Rim
+16017,8,Basin and Range
+16019,7,Fruitful Rim
+16021,8,Basin and Range
+16023,7,Fruitful Rim
+16025,7,Fruitful Rim
+16027,7,Fruitful Rim
+16029,7,Fruitful Rim
+16031,7,Fruitful Rim
+16033,7,Fruitful Rim
+16035,8,Basin and Range
+16037,7,Fruitful Rim
+16039,7,Fruitful Rim
+16041,7,Fruitful Rim
+16043,7,Fruitful Rim
+16045,7,Fruitful Rim
+16047,7,Fruitful Rim
+16049,8,Basin and Range
+16051,7,Fruitful Rim
+16053,7,Fruitful Rim
+16055,8,Basin and Range
+16057,8,Basin and Range
+16059,7,Fruitful Rim
+16061,8,Basin and Range
+16063,7,Fruitful Rim
+16065,7,Fruitful Rim
+16067,7,Fruitful Rim
+16069,8,Basin and Range
+16071,7,Fruitful Rim
+16073,7,Fruitful Rim
+16075,7,Fruitful Rim
+16077,7,Fruitful Rim
+16079,8,Basin and Range
+16081,7,Fruitful Rim
+16083,7,Fruitful Rim
+16085,7,Fruitful Rim
+16087,7,Fruitful Rim
+17001,1,Heartland
+17003,1,Heartland
+17005,1,Heartland
+17007,1,Heartland
+17009,1,Heartland
+17011,1,Heartland
+17013,1,Heartland
+17015,1,Heartland
+17017,1,Heartland
+17019,1,Heartland
+17021,1,Heartland
+17023,1,Heartland
+17025,1,Heartland
+17027,1,Heartland
+17029,1,Heartland
+17031,1,Heartland
+17033,1,Heartland
+17035,1,Heartland
+17037,1,Heartland
+17039,1,Heartland
+17041,1,Heartland
+17043,1,Heartland
+17045,1,Heartland
+17047,1,Heartland
+17049,1,Heartland
+17051,1,Heartland
+17053,1,Heartland
+17055,1,Heartland
+17057,1,Heartland
+17059,1,Heartland
+17061,1,Heartland
+17063,1,Heartland
+17065,1,Heartland
+17067,1,Heartland
+17069,1,Heartland
+17071,1,Heartland
+17073,1,Heartland
+17075,1,Heartland
+17077,1,Heartland
+17079,1,Heartland
+17081,1,Heartland
+17083,1,Heartland
+17085,1,Heartland
+17087,1,Heartland
+17089,1,Heartland
+17091,1,Heartland
+17093,1,Heartland
+17095,1,Heartland
+17097,1,Heartland
+17099,1,Heartland
+17101,1,Heartland
+17103,1,Heartland
+17105,1,Heartland
+17107,1,Heartland
+17109,1,Heartland
+17111,1,Heartland
+17113,1,Heartland
+17115,1,Heartland
+17117,1,Heartland
+17119,1,Heartland
+17121,1,Heartland
+17123,1,Heartland
+17125,1,Heartland
+17127,1,Heartland
+17129,1,Heartland
+17131,1,Heartland
+17133,1,Heartland
+17135,1,Heartland
+17137,1,Heartland
+17139,1,Heartland
+17141,1,Heartland
+17143,1,Heartland
+17145,1,Heartland
+17147,1,Heartland
+17149,1,Heartland
+17151,1,Heartland
+17153,1,Heartland
+17155,1,Heartland
+17157,1,Heartland
+17159,1,Heartland
+17161,1,Heartland
+17163,1,Heartland
+17165,1,Heartland
+17167,1,Heartland
+17169,1,Heartland
+17171,1,Heartland
+17173,1,Heartland
+17175,1,Heartland
+17177,1,Heartland
+17179,1,Heartland
+17181,1,Heartland
+17183,1,Heartland
+17185,1,Heartland
+17187,1,Heartland
+17189,1,Heartland
+17191,1,Heartland
+17193,1,Heartland
+17195,1,Heartland
+17197,1,Heartland
+17199,1,Heartland
+17201,1,Heartland
+17203,1,Heartland
+18001,1,Heartland
+18003,1,Heartland
+18005,1,Heartland
+18007,1,Heartland
+18009,1,Heartland
+18011,1,Heartland
+18013,1,Heartland
+18015,1,Heartland
+18017,1,Heartland
+18019,1,Heartland
+18021,1,Heartland
+18023,1,Heartland
+18025,1,Heartland
+18027,1,Heartland
+18029,1,Heartland
+18031,1,Heartland
+18033,1,Heartland
+18035,1,Heartland
+18037,1,Heartland
+18039,1,Heartland
+18041,1,Heartland
+18043,1,Heartland
+18045,1,Heartland
+18047,1,Heartland
+18049,1,Heartland
+18051,1,Heartland
+18053,1,Heartland
+18055,1,Heartland
+18057,1,Heartland
+18059,1,Heartland
+18061,1,Heartland
+18063,1,Heartland
+18065,1,Heartland
+18067,1,Heartland
+18069,1,Heartland
+18071,1,Heartland
+18073,1,Heartland
+18075,1,Heartland
+18077,1,Heartland
+18079,1,Heartland
+18081,1,Heartland
+18083,1,Heartland
+18085,1,Heartland
+18087,1,Heartland
+18089,1,Heartland
+18091,1,Heartland
+18093,1,Heartland
+18095,1,Heartland
+18097,1,Heartland
+18099,1,Heartland
+18101,1,Heartland
+18103,1,Heartland
+18105,1,Heartland
+18107,1,Heartland
+18109,1,Heartland
+18111,1,Heartland
+18113,1,Heartland
+18115,1,Heartland
+18117,1,Heartland
+18119,1,Heartland
+18121,1,Heartland
+18123,1,Heartland
+18125,1,Heartland
+18127,1,Heartland
+18129,1,Heartland
+18131,1,Heartland
+18133,1,Heartland
+18135,1,Heartland
+18137,1,Heartland
+18139,1,Heartland
+18141,1,Heartland
+18143,1,Heartland
+18145,1,Heartland
+18147,1,Heartland
+18149,1,Heartland
+18151,1,Heartland
+18153,1,Heartland
+18155,1,Heartland
+18157,1,Heartland
+18159,1,Heartland
+18161,1,Heartland
+18163,1,Heartland
+18165,1,Heartland
+18167,1,Heartland
+18169,1,Heartland
+18171,1,Heartland
+18173,1,Heartland
+18175,1,Heartland
+18177,1,Heartland
+18179,1,Heartland
+18181,1,Heartland
+18183,1,Heartland
+19001,1,Heartland
+19003,1,Heartland
+19005,1,Heartland
+19007,1,Heartland
+19009,1,Heartland
+19011,1,Heartland
+19013,1,Heartland
+19015,1,Heartland
+19017,1,Heartland
+19019,1,Heartland
+19021,1,Heartland
+19023,1,Heartland
+19025,1,Heartland
+19027,1,Heartland
+19029,1,Heartland
+19031,1,Heartland
+19033,1,Heartland
+19035,1,Heartland
+19037,1,Heartland
+19039,1,Heartland
+19041,1,Heartland
+19043,1,Heartland
+19045,1,Heartland
+19047,1,Heartland
+19049,1,Heartland
+19051,1,Heartland
+19053,1,Heartland
+19055,1,Heartland
+19057,1,Heartland
+19059,1,Heartland
+19061,1,Heartland
+19063,1,Heartland
+19065,1,Heartland
+19067,1,Heartland
+19069,1,Heartland
+19071,1,Heartland
+19073,1,Heartland
+19075,1,Heartland
+19077,1,Heartland
+19079,1,Heartland
+19081,1,Heartland
+19083,1,Heartland
+19085,1,Heartland
+19087,1,Heartland
+19089,1,Heartland
+19091,1,Heartland
+19093,1,Heartland
+19095,1,Heartland
+19097,1,Heartland
+19099,1,Heartland
+19101,1,Heartland
+19103,1,Heartland
+19105,1,Heartland
+19107,1,Heartland
+19109,1,Heartland
+19111,1,Heartland
+19113,1,Heartland
+19115,1,Heartland
+19117,1,Heartland
+19119,1,Heartland
+19121,1,Heartland
+19123,1,Heartland
+19125,1,Heartland
+19127,1,Heartland
+19129,1,Heartland
+19131,1,Heartland
+19133,1,Heartland
+19135,1,Heartland
+19137,1,Heartland
+19139,1,Heartland
+19141,1,Heartland
+19143,1,Heartland
+19145,1,Heartland
+19147,1,Heartland
+19149,1,Heartland
+19151,1,Heartland
+19153,1,Heartland
+19155,1,Heartland
+19157,1,Heartland
+19159,1,Heartland
+19161,1,Heartland
+19163,1,Heartland
+19165,1,Heartland
+19167,1,Heartland
+19169,1,Heartland
+19171,1,Heartland
+19173,1,Heartland
+19175,1,Heartland
+19177,1,Heartland
+19179,1,Heartland
+19181,1,Heartland
+19183,1,Heartland
+19185,1,Heartland
+19187,1,Heartland
+19189,1,Heartland
+19191,1,Heartland
+19193,1,Heartland
+19195,1,Heartland
+19197,1,Heartland
+20001,4,Prairie Gateway
+20003,4,Prairie Gateway
+20005,4,Prairie Gateway
+20007,4,Prairie Gateway
+20009,4,Prairie Gateway
+20011,4,Prairie Gateway
+20013,4,Prairie Gateway
+20015,4,Prairie Gateway
+20017,4,Prairie Gateway
+20019,4,Prairie Gateway
+20021,4,Prairie Gateway
+20023,4,Prairie Gateway
+20025,4,Prairie Gateway
+20027,4,Prairie Gateway
+20029,4,Prairie Gateway
+20031,4,Prairie Gateway
+20033,4,Prairie Gateway
+20035,4,Prairie Gateway
+20037,4,Prairie Gateway
+20039,4,Prairie Gateway
+20041,4,Prairie Gateway
+20043,4,Prairie Gateway
+20045,4,Prairie Gateway
+20047,4,Prairie Gateway
+20049,4,Prairie Gateway
+20051,4,Prairie Gateway
+20053,4,Prairie Gateway
+20055,4,Prairie Gateway
+20057,4,Prairie Gateway
+20059,4,Prairie Gateway
+20061,4,Prairie Gateway
+20063,4,Prairie Gateway
+20065,4,Prairie Gateway
+20067,4,Prairie Gateway
+20069,4,Prairie Gateway
+20071,4,Prairie Gateway
+20073,4,Prairie Gateway
+20075,4,Prairie Gateway
+20077,4,Prairie Gateway
+20079,4,Prairie Gateway
+20081,4,Prairie Gateway
+20083,4,Prairie Gateway
+20085,4,Prairie Gateway
+20087,4,Prairie Gateway
+20089,4,Prairie Gateway
+20091,4,Prairie Gateway
+20093,4,Prairie Gateway
+20095,4,Prairie Gateway
+20097,4,Prairie Gateway
+20099,4,Prairie Gateway
+20101,4,Prairie Gateway
+20103,4,Prairie Gateway
+20105,4,Prairie Gateway
+20107,4,Prairie Gateway
+20109,4,Prairie Gateway
+20111,4,Prairie Gateway
+20113,4,Prairie Gateway
+20115,4,Prairie Gateway
+20117,4,Prairie Gateway
+20119,4,Prairie Gateway
+20121,4,Prairie Gateway
+20123,4,Prairie Gateway
+20125,4,Prairie Gateway
+20127,4,Prairie Gateway
+20129,4,Prairie Gateway
+20131,4,Prairie Gateway
+20133,4,Prairie Gateway
+20135,4,Prairie Gateway
+20137,4,Prairie Gateway
+20139,4,Prairie Gateway
+20141,4,Prairie Gateway
+20143,4,Prairie Gateway
+20145,4,Prairie Gateway
+20147,4,Prairie Gateway
+20149,4,Prairie Gateway
+20151,4,Prairie Gateway
+20153,4,Prairie Gateway
+20155,4,Prairie Gateway
+20157,4,Prairie Gateway
+20159,4,Prairie Gateway
+20161,4,Prairie Gateway
+20163,4,Prairie Gateway
+20165,4,Prairie Gateway
+20167,4,Prairie Gateway
+20169,4,Prairie Gateway
+20171,4,Prairie Gateway
+20173,4,Prairie Gateway
+20175,4,Prairie Gateway
+20177,4,Prairie Gateway
+20179,4,Prairie Gateway
+20181,4,Prairie Gateway
+20183,4,Prairie Gateway
+20185,4,Prairie Gateway
+20187,4,Prairie Gateway
+20189,4,Prairie Gateway
+20191,4,Prairie Gateway
+20193,4,Prairie Gateway
+20195,4,Prairie Gateway
+20197,4,Prairie Gateway
+20199,4,Prairie Gateway
+20201,4,Prairie Gateway
+20203,4,Prairie Gateway
+20205,4,Prairie Gateway
+20207,4,Prairie Gateway
+20209,4,Prairie Gateway
+21001,5,Eastern Uplands
+21003,5,Eastern Uplands
+21005,5,Eastern Uplands
+21007,1,Heartland
+21009,5,Eastern Uplands
+21011,5,Eastern Uplands
+21013,5,Eastern Uplands
+21015,5,Eastern Uplands
+21017,5,Eastern Uplands
+21019,5,Eastern Uplands
+21021,5,Eastern Uplands
+21023,5,Eastern Uplands
+21025,5,Eastern Uplands
+21027,5,Eastern Uplands
+21029,5,Eastern Uplands
+21031,5,Eastern Uplands
+21033,1,Heartland
+21035,1,Heartland
+21037,5,Eastern Uplands
+21039,1,Heartland
+21041,5,Eastern Uplands
+21043,5,Eastern Uplands
+21045,5,Eastern Uplands
+21047,1,Heartland
+21049,5,Eastern Uplands
+21051,5,Eastern Uplands
+21053,5,Eastern Uplands
+21055,1,Heartland
+21057,5,Eastern Uplands
+21059,1,Heartland
+21061,5,Eastern Uplands
+21063,5,Eastern Uplands
+21065,5,Eastern Uplands
+21067,5,Eastern Uplands
+21069,5,Eastern Uplands
+21071,5,Eastern Uplands
+21073,5,Eastern Uplands
+21075,1,Heartland
+21077,5,Eastern Uplands
+21079,5,Eastern Uplands
+21081,5,Eastern Uplands
+21083,1,Heartland
+21085,5,Eastern Uplands
+21087,5,Eastern Uplands
+21089,5,Eastern Uplands
+21091,1,Heartland
+21093,5,Eastern Uplands
+21095,5,Eastern Uplands
+21097,5,Eastern Uplands
+21099,5,Eastern Uplands
+21101,1,Heartland
+21103,5,Eastern Uplands
+21105,1,Heartland
+21107,1,Heartland
+21109,5,Eastern Uplands
+21111,5,Eastern Uplands
+21113,5,Eastern Uplands
+21115,5,Eastern Uplands
+21117,5,Eastern Uplands
+21119,5,Eastern Uplands
+21121,5,Eastern Uplands
+21123,5,Eastern Uplands
+21125,5,Eastern Uplands
+21127,5,Eastern Uplands
+21129,5,Eastern Uplands
+21131,5,Eastern Uplands
+21133,5,Eastern Uplands
+21135,5,Eastern Uplands
+21137,5,Eastern Uplands
+21139,1,Heartland
+21141,1,Heartland
+21143,1,Heartland
+21145,1,Heartland
+21147,5,Eastern Uplands
+21149,1,Heartland
+21151,5,Eastern Uplands
+21153,5,Eastern Uplands
+21155,5,Eastern Uplands
+21157,1,Heartland
+21159,5,Eastern Uplands
+21161,5,Eastern Uplands
+21163,5,Eastern Uplands
+21165,5,Eastern Uplands
+21167,5,Eastern Uplands
+21169,5,Eastern Uplands
+21171,5,Eastern Uplands
+21173,5,Eastern Uplands
+21175,5,Eastern Uplands
+21177,1,Heartland
+21179,5,Eastern Uplands
+21181,5,Eastern Uplands
+21183,1,Heartland
+21185,5,Eastern Uplands
+21187,5,Eastern Uplands
+21189,5,Eastern Uplands
+21191,5,Eastern Uplands
+21193,5,Eastern Uplands
+21195,5,Eastern Uplands
+21197,5,Eastern Uplands
+21199,5,Eastern Uplands
+21201,5,Eastern Uplands
+21203,5,Eastern Uplands
+21205,5,Eastern Uplands
+21207,5,Eastern Uplands
+21209,5,Eastern Uplands
+21211,5,Eastern Uplands
+21213,1,Heartland
+21215,5,Eastern Uplands
+21217,5,Eastern Uplands
+21219,1,Heartland
+21221,1,Heartland
+21223,5,Eastern Uplands
+21225,1,Heartland
+21227,5,Eastern Uplands
+21229,5,Eastern Uplands
+21231,5,Eastern Uplands
+21233,1,Heartland
+21235,5,Eastern Uplands
+21237,5,Eastern Uplands
+21239,5,Eastern Uplands
+22001,9,Mississippi Portal
+22003,9,Mississippi Portal
+22005,9,Mississippi Portal
+22007,9,Mississippi Portal
+22009,9,Mississippi Portal
+22011,9,Mississippi Portal
+22013,6,Southern Seaboard
+22015,6,Southern Seaboard
+22017,6,Southern Seaboard
+22019,9,Mississippi Portal
+22021,6,Southern Seaboard
+22023,9,Mississippi Portal
+22025,9,Mississippi Portal
+22027,6,Southern Seaboard
+22029,9,Mississippi Portal
+22031,6,Southern Seaboard
+22033,9,Mississippi Portal
+22035,9,Mississippi Portal
+22037,9,Mississippi Portal
+22039,9,Mississippi Portal
+22041,9,Mississippi Portal
+22043,9,Mississippi Portal
+22045,9,Mississippi Portal
+22047,9,Mississippi Portal
+22049,6,Southern Seaboard
+22051,9,Mississippi Portal
+22053,9,Mississippi Portal
+22055,9,Mississippi Portal
+22057,9,Mississippi Portal
+22059,9,Mississippi Portal
+22061,6,Southern Seaboard
+22063,9,Mississippi Portal
+22065,9,Mississippi Portal
+22067,9,Mississippi Portal
+22069,6,Southern Seaboard
+22071,9,Mississippi Portal
+22073,6,Southern Seaboard
+22075,9,Mississippi Portal
+22077,9,Mississippi Portal
+22079,9,Mississippi Portal
+22081,6,Southern Seaboard
+22083,9,Mississippi Portal
+22085,6,Southern Seaboard
+22087,9,Mississippi Portal
+22089,9,Mississippi Portal
+22091,9,Mississippi Portal
+22093,9,Mississippi Portal
+22095,9,Mississippi Portal
+22097,9,Mississippi Portal
+22099,9,Mississippi Portal
+22101,9,Mississippi Portal
+22103,9,Mississippi Portal
+22105,9,Mississippi Portal
+22107,9,Mississippi Portal
+22109,9,Mississippi Portal
+22111,6,Southern Seaboard
+22113,9,Mississippi Portal
+22115,6,Southern Seaboard
+22117,9,Mississippi Portal
+22119,6,Southern Seaboard
+22121,9,Mississippi Portal
+22123,9,Mississippi Portal
+22125,9,Mississippi Portal
+22127,6,Southern Seaboard
+23001,2,Northern Crescent
+23003,2,Northern Crescent
+23005,2,Northern Crescent
+23007,2,Northern Crescent
+23009,2,Northern Crescent
+23011,2,Northern Crescent
+23013,2,Northern Crescent
+23015,2,Northern Crescent
+23017,2,Northern Crescent
+23019,2,Northern Crescent
+23021,2,Northern Crescent
+23023,2,Northern Crescent
+23025,2,Northern Crescent
+23027,2,Northern Crescent
+23029,2,Northern Crescent
+23031,2,Northern Crescent
+24001,5,Eastern Uplands
+24003,6,Southern Seaboard
+24005,2,Northern Crescent
+24009,6,Southern Seaboard
+24011,6,Southern Seaboard
+24013,2,Northern Crescent
+24015,6,Southern Seaboard
+24017,6,Southern Seaboard
+24019,6,Southern Seaboard
+24021,2,Northern Crescent
+24023,5,Eastern Uplands
+24025,2,Northern Crescent
+24027,2,Northern Crescent
+24029,6,Southern Seaboard
+24031,2,Northern Crescent
+24033,6,Southern Seaboard
+24035,6,Southern Seaboard
+24037,6,Southern Seaboard
+24039,6,Southern Seaboard
+24041,6,Southern Seaboard
+24043,2,Northern Crescent
+24045,6,Southern Seaboard
+24047,6,Southern Seaboard
+24510,2,Northern Crescent
+25001,2,Northern Crescent
+25003,2,Northern Crescent
+25005,2,Northern Crescent
+25009,2,Northern Crescent
+25011,2,Northern Crescent
+25013,2,Northern Crescent
+25015,2,Northern Crescent
+25017,2,Northern Crescent
+25021,2,Northern Crescent
+25023,2,Northern Crescent
+25025,2,Northern Crescent
+25027,2,Northern Crescent
+26001,2,Northern Crescent
+26003,2,Northern Crescent
+26005,2,Northern Crescent
+26007,2,Northern Crescent
+26009,2,Northern Crescent
+26011,2,Northern Crescent
+26013,2,Northern Crescent
+26015,2,Northern Crescent
+26017,2,Northern Crescent
+26019,2,Northern Crescent
+26021,2,Northern Crescent
+26023,2,Northern Crescent
+26025,2,Northern Crescent
+26027,2,Northern Crescent
+26029,2,Northern Crescent
+26031,2,Northern Crescent
+26033,2,Northern Crescent
+26035,2,Northern Crescent
+26037,2,Northern Crescent
+26039,2,Northern Crescent
+26041,2,Northern Crescent
+26043,2,Northern Crescent
+26045,2,Northern Crescent
+26047,2,Northern Crescent
+26049,2,Northern Crescent
+26051,2,Northern Crescent
+26053,2,Northern Crescent
+26055,2,Northern Crescent
+26057,2,Northern Crescent
+26059,2,Northern Crescent
+26061,2,Northern Crescent
+26063,2,Northern Crescent
+26065,2,Northern Crescent
+26067,2,Northern Crescent
+26069,2,Northern Crescent
+26071,2,Northern Crescent
+26073,2,Northern Crescent
+26075,2,Northern Crescent
+26077,2,Northern Crescent
+26079,2,Northern Crescent
+26081,2,Northern Crescent
+26083,2,Northern Crescent
+26085,2,Northern Crescent
+26087,2,Northern Crescent
+26089,2,Northern Crescent
+26091,2,Northern Crescent
+26093,2,Northern Crescent
+26095,2,Northern Crescent
+26097,2,Northern Crescent
+26099,2,Northern Crescent
+26101,2,Northern Crescent
+26103,2,Northern Crescent
+26105,2,Northern Crescent
+26107,2,Northern Crescent
+26109,2,Northern Crescent
+26111,2,Northern Crescent
+26113,2,Northern Crescent
+26115,2,Northern Crescent
+26117,2,Northern Crescent
+26119,2,Northern Crescent
+26121,2,Northern Crescent
+26123,2,Northern Crescent
+26125,2,Northern Crescent
+26127,2,Northern Crescent
+26129,2,Northern Crescent
+26131,2,Northern Crescent
+26133,2,Northern Crescent
+26135,2,Northern Crescent
+26137,2,Northern Crescent
+26139,2,Northern Crescent
+26141,2,Northern Crescent
+26143,2,Northern Crescent
+26145,2,Northern Crescent
+26147,2,Northern Crescent
+26149,2,Northern Crescent
+26151,2,Northern Crescent
+26153,2,Northern Crescent
+26155,2,Northern Crescent
+26157,2,Northern Crescent
+26159,2,Northern Crescent
+26161,2,Northern Crescent
+26163,2,Northern Crescent
+26165,2,Northern Crescent
+27001,2,Northern Crescent
+27003,2,Northern Crescent
+27005,3,Northern Great Plains
+27007,2,Northern Crescent
+27009,2,Northern Crescent
+27011,1,Heartland
+27013,1,Heartland
+27015,1,Heartland
+27017,2,Northern Crescent
+27019,2,Northern Crescent
+27021,2,Northern Crescent
+27023,1,Heartland
+27025,2,Northern Crescent
+27027,3,Northern Great Plains
+27029,3,Northern Great Plains
+27031,2,Northern Crescent
+27033,1,Heartland
+27035,2,Northern Crescent
+27037,1,Heartland
+27039,1,Heartland
+27041,1,Heartland
+27043,1,Heartland
+27045,1,Heartland
+27047,1,Heartland
+27049,1,Heartland
+27051,1,Heartland
+27053,2,Northern Crescent
+27055,1,Heartland
+27057,2,Northern Crescent
+27059,2,Northern Crescent
+27061,2,Northern Crescent
+27063,1,Heartland
+27065,2,Northern Crescent
+27067,2,Northern Crescent
+27069,3,Northern Great Plains
+27071,2,Northern Crescent
+27073,1,Heartland
+27075,2,Northern Crescent
+27077,2,Northern Crescent
+27079,1,Heartland
+27081,1,Heartland
+27083,1,Heartland
+27085,2,Northern Crescent
+27087,3,Northern Great Plains
+27089,3,Northern Great Plains
+27091,1,Heartland
+27093,2,Northern Crescent
+27095,2,Northern Crescent
+27097,2,Northern Crescent
+27099,1,Heartland
+27101,1,Heartland
+27103,1,Heartland
+27105,1,Heartland
+27107,3,Northern Great Plains
+27109,1,Heartland
+27111,1,Heartland
+27113,3,Northern Great Plains
+27115,2,Northern Crescent
+27117,1,Heartland
+27119,3,Northern Great Plains
+27121,1,Heartland
+27123,2,Northern Crescent
+27125,3,Northern Great Plains
+27127,1,Heartland
+27129,2,Northern Crescent
+27131,1,Heartland
+27133,1,Heartland
+27135,3,Northern Great Plains
+27137,2,Northern Crescent
+27139,2,Northern Crescent
+27141,2,Northern Crescent
+27143,2,Northern Crescent
+27145,2,Northern Crescent
+27147,1,Heartland
+27149,1,Heartland
+27151,1,Heartland
+27153,2,Northern Crescent
+27155,1,Heartland
+27157,1,Heartland
+27159,2,Northern Crescent
+27161,1,Heartland
+27163,2,Northern Crescent
+27165,1,Heartland
+27167,1,Heartland
+27169,1,Heartland
+27171,2,Northern Crescent
+27173,1,Heartland
+28001,9,Mississippi Portal
+28003,9,Mississippi Portal
+28005,9,Mississippi Portal
+28007,9,Mississippi Portal
+28009,9,Mississippi Portal
+28011,9,Mississippi Portal
+28013,9,Mississippi Portal
+28015,9,Mississippi Portal
+28017,9,Mississippi Portal
+28019,9,Mississippi Portal
+28021,9,Mississippi Portal
+28023,6,Southern Seaboard
+28025,9,Mississippi Portal
+28027,9,Mississippi Portal
+28029,9,Mississippi Portal
+28031,6,Southern Seaboard
+28033,9,Mississippi Portal
+28035,6,Southern Seaboard
+28037,9,Mississippi Portal
+28039,6,Southern Seaboard
+28041,6,Southern Seaboard
+28043,9,Mississippi Portal
+28045,6,Southern Seaboard
+28047,6,Southern Seaboard
+28049,9,Mississippi Portal
+28051,9,Mississippi Portal
+28053,9,Mississippi Portal
+28055,9,Mississippi Portal
+28057,9,Mississippi Portal
+28059,6,Southern Seaboard
+28061,6,Southern Seaboard
+28063,9,Mississippi Portal
+28065,6,Southern Seaboard
+28067,6,Southern Seaboard
+28069,9,Mississippi Portal
+28071,9,Mississippi Portal
+28073,6,Southern Seaboard
+28075,6,Southern Seaboard
+28077,6,Southern Seaboard
+28079,9,Mississippi Portal
+28081,9,Mississippi Portal
+28083,9,Mississippi Portal
+28085,9,Mississippi Portal
+28087,9,Mississippi Portal
+28089,9,Mississippi Portal
+28091,6,Southern Seaboard
+28093,9,Mississippi Portal
+28095,9,Mississippi Portal
+28097,9,Mississippi Portal
+28099,9,Mississippi Portal
+28101,6,Southern Seaboard
+28103,9,Mississippi Portal
+28105,9,Mississippi Portal
+28107,9,Mississippi Portal
+28109,6,Southern Seaboard
+28111,6,Southern Seaboard
+28113,6,Southern Seaboard
+28115,9,Mississippi Portal
+28117,9,Mississippi Portal
+28119,9,Mississippi Portal
+28121,9,Mississippi Portal
+28123,9,Mississippi Portal
+28125,9,Mississippi Portal
+28127,6,Southern Seaboard
+28129,6,Southern Seaboard
+28131,6,Southern Seaboard
+28133,9,Mississippi Portal
+28135,9,Mississippi Portal
+28137,9,Mississippi Portal
+28139,9,Mississippi Portal
+28141,9,Mississippi Portal
+28143,9,Mississippi Portal
+28145,9,Mississippi Portal
+28147,6,Southern Seaboard
+28149,9,Mississippi Portal
+28151,9,Mississippi Portal
+28153,6,Southern Seaboard
+28155,9,Mississippi Portal
+28157,9,Mississippi Portal
+28159,9,Mississippi Portal
+28161,9,Mississippi Portal
+28163,9,Mississippi Portal
+29001,1,Heartland
+29003,1,Heartland
+29005,1,Heartland
+29007,1,Heartland
+29009,5,Eastern Uplands
+29011,5,Eastern Uplands
+29013,1,Heartland
+29015,1,Heartland
+29017,5,Eastern Uplands
+29019,1,Heartland
+29021,1,Heartland
+29023,1,Heartland
+29025,1,Heartland
+29027,1,Heartland
+29029,1,Heartland
+29031,1,Heartland
+29033,1,Heartland
+29035,5,Eastern Uplands
+29037,1,Heartland
+29039,1,Heartland
+29041,1,Heartland
+29043,5,Eastern Uplands
+29045,1,Heartland
+29047,1,Heartland
+29049,1,Heartland
+29051,1,Heartland
+29053,1,Heartland
+29055,1,Heartland
+29057,5,Eastern Uplands
+29059,1,Heartland
+29061,1,Heartland
+29063,1,Heartland
+29065,5,Eastern Uplands
+29067,5,Eastern Uplands
+29069,1,Heartland
+29071,1,Heartland
+29073,1,Heartland
+29075,1,Heartland
+29077,5,Eastern Uplands
+29079,1,Heartland
+29081,1,Heartland
+29083,1,Heartland
+29085,1,Heartland
+29087,1,Heartland
+29089,1,Heartland
+29091,5,Eastern Uplands
+29093,5,Eastern Uplands
+29095,1,Heartland
+29097,5,Eastern Uplands
+29099,1,Heartland
+29101,1,Heartland
+29103,1,Heartland
+29105,1,Heartland
+29107,1,Heartland
+29109,5,Eastern Uplands
+29111,1,Heartland
+29113,1,Heartland
+29115,1,Heartland
+29117,1,Heartland
+29119,5,Eastern Uplands
+29121,1,Heartland
+29123,5,Eastern Uplands
+29125,1,Heartland
+29127,1,Heartland
+29129,1,Heartland
+29131,1,Heartland
+29133,1,Heartland
+29135,1,Heartland
+29137,1,Heartland
+29139,1,Heartland
+29141,1,Heartland
+29143,1,Heartland
+29145,5,Eastern Uplands
+29147,1,Heartland
+29149,5,Eastern Uplands
+29151,1,Heartland
+29153,5,Eastern Uplands
+29155,1,Heartland
+29157,1,Heartland
+29159,1,Heartland
+29161,1,Heartland
+29163,1,Heartland
+29165,1,Heartland
+29167,1,Heartland
+29169,1,Heartland
+29171,1,Heartland
+29173,1,Heartland
+29175,1,Heartland
+29177,1,Heartland
+29179,5,Eastern Uplands
+29181,5,Eastern Uplands
+29183,1,Heartland
+29185,1,Heartland
+29187,1,Heartland
+29189,1,Heartland
+29195,1,Heartland
+29197,1,Heartland
+29199,1,Heartland
+29201,1,Heartland
+29203,5,Eastern Uplands
+29205,1,Heartland
+29207,1,Heartland
+29209,5,Eastern Uplands
+29211,1,Heartland
+29213,5,Eastern Uplands
+29215,5,Eastern Uplands
+29217,1,Heartland
+29219,1,Heartland
+29221,1,Heartland
+29223,5,Eastern Uplands
+29225,5,Eastern Uplands
+29227,1,Heartland
+29229,5,Eastern Uplands
+29510,1,Heartland
+30001,8,Basin and Range
+30003,8,Basin and Range
+30005,3,Northern Great Plains
+30007,8,Basin and Range
+30009,8,Basin and Range
+30011,3,Northern Great Plains
+30013,8,Basin and Range
+30015,3,Northern Great Plains
+30017,3,Northern Great Plains
+30019,3,Northern Great Plains
+30021,3,Northern Great Plains
+30023,8,Basin and Range
+30025,3,Northern Great Plains
+30027,8,Basin and Range
+30029,8,Basin and Range
+30031,8,Basin and Range
+30033,3,Northern Great Plains
+30035,3,Northern Great Plains
+30037,8,Basin and Range
+30039,8,Basin and Range
+30041,3,Northern Great Plains
+30043,8,Basin and Range
+30045,8,Basin and Range
+30047,8,Basin and Range
+30049,8,Basin and Range
+30051,3,Northern Great Plains
+30053,8,Basin and Range
+30055,3,Northern Great Plains
+30057,8,Basin and Range
+30059,8,Basin and Range
+30061,8,Basin and Range
+30063,8,Basin and Range
+30065,8,Basin and Range
+30067,8,Basin and Range
+30069,8,Basin and Range
+30071,3,Northern Great Plains
+30073,3,Northern Great Plains
+30075,3,Northern Great Plains
+30077,8,Basin and Range
+30079,3,Northern Great Plains
+30081,8,Basin and Range
+30083,3,Northern Great Plains
+30085,3,Northern Great Plains
+30087,3,Northern Great Plains
+30089,8,Basin and Range
+30091,3,Northern Great Plains
+30093,8,Basin and Range
+30095,8,Basin and Range
+30097,8,Basin and Range
+30099,3,Northern Great Plains
+30101,3,Northern Great Plains
+30103,8,Basin and Range
+30105,3,Northern Great Plains
+30107,8,Basin and Range
+30109,3,Northern Great Plains
+30111,8,Basin and Range
+30113,8,Basin and Range
+31001,4,Prairie Gateway
+31003,1,Heartland
+31005,3,Northern Great Plains
+31007,3,Northern Great Plains
+31009,3,Northern Great Plains
+31011,1,Heartland
+31013,3,Northern Great Plains
+31015,3,Northern Great Plains
+31017,3,Northern Great Plains
+31019,4,Prairie Gateway
+31021,1,Heartland
+31023,1,Heartland
+31025,1,Heartland
+31027,1,Heartland
+31029,4,Prairie Gateway
+31031,3,Northern Great Plains
+31033,3,Northern Great Plains
+31035,4,Prairie Gateway
+31037,1,Heartland
+31039,1,Heartland
+31041,4,Prairie Gateway
+31043,1,Heartland
+31045,3,Northern Great Plains
+31047,4,Prairie Gateway
+31049,3,Northern Great Plains
+31051,1,Heartland
+31053,1,Heartland
+31055,1,Heartland
+31057,4,Prairie Gateway
+31059,4,Prairie Gateway
+31061,4,Prairie Gateway
+31063,4,Prairie Gateway
+31065,4,Prairie Gateway
+31067,4,Prairie Gateway
+31069,3,Northern Great Plains
+31071,3,Northern Great Plains
+31073,4,Prairie Gateway
+31075,3,Northern Great Plains
+31077,4,Prairie Gateway
+31079,4,Prairie Gateway
+31081,1,Heartland
+31083,4,Prairie Gateway
+31085,4,Prairie Gateway
+31087,4,Prairie Gateway
+31089,3,Northern Great Plains
+31091,3,Northern Great Plains
+31093,4,Prairie Gateway
+31095,4,Prairie Gateway
+31097,4,Prairie Gateway
+31099,4,Prairie Gateway
+31101,4,Prairie Gateway
+31103,3,Northern Great Plains
+31105,3,Northern Great Plains
+31107,1,Heartland
+31109,1,Heartland
+31111,4,Prairie Gateway
+31113,3,Northern Great Plains
+31115,3,Northern Great Plains
+31117,3,Northern Great Plains
+31119,1,Heartland
+31121,1,Heartland
+31123,3,Northern Great Plains
+31125,1,Heartland
+31127,4,Prairie Gateway
+31129,4,Prairie Gateway
+31131,4,Prairie Gateway
+31133,4,Prairie Gateway
+31135,4,Prairie Gateway
+31137,4,Prairie Gateway
+31139,1,Heartland
+31141,1,Heartland
+31143,1,Heartland
+31145,4,Prairie Gateway
+31147,4,Prairie Gateway
+31149,3,Northern Great Plains
+31151,4,Prairie Gateway
+31153,1,Heartland
+31155,1,Heartland
+31157,3,Northern Great Plains
+31159,1,Heartland
+31161,3,Northern Great Plains
+31163,4,Prairie Gateway
+31165,3,Northern Great Plains
+31167,1,Heartland
+31169,4,Prairie Gateway
+31171,3,Northern Great Plains
+31173,1,Heartland
+31175,4,Prairie Gateway
+31177,1,Heartland
+31179,1,Heartland
+31181,4,Prairie Gateway
+31183,3,Northern Great Plains
+31185,1,Heartland
+32001,8,Basin and Range
+32003,8,Basin and Range
+32005,8,Basin and Range
+32007,8,Basin and Range
+32009,8,Basin and Range
+32011,8,Basin and Range
+32013,8,Basin and Range
+32015,8,Basin and Range
+32017,8,Basin and Range
+32019,8,Basin and Range
+32021,8,Basin and Range
+32023,8,Basin and Range
+32027,8,Basin and Range
+32029,8,Basin and Range
+32031,8,Basin and Range
+32033,8,Basin and Range
+32510,8,Basin and Range
+33001,2,Northern Crescent
+33003,2,Northern Crescent
+33005,2,Northern Crescent
+33007,2,Northern Crescent
+33009,2,Northern Crescent
+33011,2,Northern Crescent
+33013,2,Northern Crescent
+33015,2,Northern Crescent
+33017,2,Northern Crescent
+33019,2,Northern Crescent
+34001,2,Northern Crescent
+34003,2,Northern Crescent
+34005,2,Northern Crescent
+34007,2,Northern Crescent
+34009,2,Northern Crescent
+34011,2,Northern Crescent
+34013,2,Northern Crescent
+34015,2,Northern Crescent
+34017,2,Northern Crescent
+34019,2,Northern Crescent
+34021,2,Northern Crescent
+34023,2,Northern Crescent
+34025,2,Northern Crescent
+34027,2,Northern Crescent
+34029,2,Northern Crescent
+34031,2,Northern Crescent
+34033,2,Northern Crescent
+34035,2,Northern Crescent
+34037,2,Northern Crescent
+34039,2,Northern Crescent
+34041,2,Northern Crescent
+35001,8,Basin and Range
+35003,8,Basin and Range
+35005,4,Prairie Gateway
+35006,8,Basin and Range
+35007,4,Prairie Gateway
+35009,4,Prairie Gateway
+35011,4,Prairie Gateway
+35013,4,Prairie Gateway
+35015,4,Prairie Gateway
+35017,8,Basin and Range
+35019,4,Prairie Gateway
+35021,4,Prairie Gateway
+35023,8,Basin and Range
+35025,4,Prairie Gateway
+35027,4,Prairie Gateway
+35028,8,Basin and Range
+35029,8,Basin and Range
+35031,8,Basin and Range
+35033,4,Prairie Gateway
+35035,4,Prairie Gateway
+35037,4,Prairie Gateway
+35039,8,Basin and Range
+35041,4,Prairie Gateway
+35043,8,Basin and Range
+35045,8,Basin and Range
+35047,4,Prairie Gateway
+35049,8,Basin and Range
+35051,8,Basin and Range
+35053,8,Basin and Range
+35055,8,Basin and Range
+35057,4,Prairie Gateway
+35059,4,Prairie Gateway
+35061,8,Basin and Range
+36001,2,Northern Crescent
+36003,2,Northern Crescent
+36005,2,Northern Crescent
+36007,2,Northern Crescent
+36009,2,Northern Crescent
+36011,2,Northern Crescent
+36013,2,Northern Crescent
+36015,2,Northern Crescent
+36017,2,Northern Crescent
+36019,2,Northern Crescent
+36021,2,Northern Crescent
+36023,2,Northern Crescent
+36025,2,Northern Crescent
+36027,2,Northern Crescent
+36029,2,Northern Crescent
+36031,2,Northern Crescent
+36033,2,Northern Crescent
+36035,2,Northern Crescent
+36037,2,Northern Crescent
+36039,2,Northern Crescent
+36041,2,Northern Crescent
+36043,2,Northern Crescent
+36045,2,Northern Crescent
+36047,2,Northern Crescent
+36049,2,Northern Crescent
+36051,2,Northern Crescent
+36053,2,Northern Crescent
+36055,2,Northern Crescent
+36057,2,Northern Crescent
+36059,2,Northern Crescent
+36061,2,Northern Crescent
+36063,2,Northern Crescent
+36065,2,Northern Crescent
+36067,2,Northern Crescent
+36069,2,Northern Crescent
+36071,2,Northern Crescent
+36073,2,Northern Crescent
+36075,2,Northern Crescent
+36077,2,Northern Crescent
+36079,2,Northern Crescent
+36081,2,Northern Crescent
+36083,2,Northern Crescent
+36087,2,Northern Crescent
+36089,2,Northern Crescent
+36091,2,Northern Crescent
+36093,2,Northern Crescent
+36095,2,Northern Crescent
+36097,2,Northern Crescent
+36099,2,Northern Crescent
+36101,2,Northern Crescent
+36103,2,Northern Crescent
+36105,2,Northern Crescent
+36107,2,Northern Crescent
+36109,2,Northern Crescent
+36111,2,Northern Crescent
+36113,2,Northern Crescent
+36115,2,Northern Crescent
+36117,2,Northern Crescent
+36119,2,Northern Crescent
+36121,2,Northern Crescent
+36123,2,Northern Crescent
+37001,6,Southern Seaboard
+37003,6,Southern Seaboard
+37005,6,Southern Seaboard
+37007,6,Southern Seaboard
+37009,6,Southern Seaboard
+37011,6,Southern Seaboard
+37013,6,Southern Seaboard
+37015,6,Southern Seaboard
+37017,6,Southern Seaboard
+37019,6,Southern Seaboard
+37021,5,Eastern Uplands
+37023,5,Eastern Uplands
+37025,6,Southern Seaboard
+37027,6,Southern Seaboard
+37029,6,Southern Seaboard
+37031,6,Southern Seaboard
+37033,6,Southern Seaboard
+37035,6,Southern Seaboard
+37037,6,Southern Seaboard
+37039,5,Eastern Uplands
+37041,6,Southern Seaboard
+37043,5,Eastern Uplands
+37045,6,Southern Seaboard
+37047,6,Southern Seaboard
+37049,6,Southern Seaboard
+37051,6,Southern Seaboard
+37053,6,Southern Seaboard
+37055,6,Southern Seaboard
+37057,6,Southern Seaboard
+37059,6,Southern Seaboard
+37061,6,Southern Seaboard
+37063,6,Southern Seaboard
+37065,6,Southern Seaboard
+37067,6,Southern Seaboard
+37069,6,Southern Seaboard
+37071,6,Southern Seaboard
+37073,6,Southern Seaboard
+37075,5,Eastern Uplands
+37077,6,Southern Seaboard
+37079,6,Southern Seaboard
+37081,6,Southern Seaboard
+37083,6,Southern Seaboard
+37085,6,Southern Seaboard
+37087,5,Eastern Uplands
+37089,5,Eastern Uplands
+37091,6,Southern Seaboard
+37093,6,Southern Seaboard
+37095,6,Southern Seaboard
+37097,6,Southern Seaboard
+37099,5,Eastern Uplands
+37101,6,Southern Seaboard
+37103,6,Southern Seaboard
+37105,6,Southern Seaboard
+37107,6,Southern Seaboard
+37109,6,Southern Seaboard
+37111,5,Eastern Uplands
+37113,5,Eastern Uplands
+37115,5,Eastern Uplands
+37117,6,Southern Seaboard
+37119,6,Southern Seaboard
+37121,5,Eastern Uplands
+37123,6,Southern Seaboard
+37125,6,Southern Seaboard
+37127,6,Southern Seaboard
+37129,6,Southern Seaboard
+37131,6,Southern Seaboard
+37133,6,Southern Seaboard
+37135,6,Southern Seaboard
+37137,6,Southern Seaboard
+37139,6,Southern Seaboard
+37141,6,Southern Seaboard
+37143,6,Southern Seaboard
+37145,6,Southern Seaboard
+37147,6,Southern Seaboard
+37149,5,Eastern Uplands
+37151,6,Southern Seaboard
+37153,6,Southern Seaboard
+37155,6,Southern Seaboard
+37157,6,Southern Seaboard
+37159,6,Southern Seaboard
+37161,5,Eastern Uplands
+37163,6,Southern Seaboard
+37165,6,Southern Seaboard
+37167,6,Southern Seaboard
+37169,6,Southern Seaboard
+37171,6,Southern Seaboard
+37173,5,Eastern Uplands
+37175,5,Eastern Uplands
+37177,6,Southern Seaboard
+37179,6,Southern Seaboard
+37181,6,Southern Seaboard
+37183,6,Southern Seaboard
+37185,6,Southern Seaboard
+37187,6,Southern Seaboard
+37189,6,Southern Seaboard
+37191,6,Southern Seaboard
+37193,6,Southern Seaboard
+37195,6,Southern Seaboard
+37197,6,Southern Seaboard
+37199,5,Eastern Uplands
+38001,3,Northern Great Plains
+38003,3,Northern Great Plains
+38005,3,Northern Great Plains
+38007,3,Northern Great Plains
+38009,3,Northern Great Plains
+38011,3,Northern Great Plains
+38013,3,Northern Great Plains
+38015,3,Northern Great Plains
+38017,3,Northern Great Plains
+38019,3,Northern Great Plains
+38021,3,Northern Great Plains
+38023,3,Northern Great Plains
+38025,3,Northern Great Plains
+38027,3,Northern Great Plains
+38029,3,Northern Great Plains
+38031,3,Northern Great Plains
+38033,3,Northern Great Plains
+38035,3,Northern Great Plains
+38037,3,Northern Great Plains
+38039,3,Northern Great Plains
+38041,3,Northern Great Plains
+38043,3,Northern Great Plains
+38045,3,Northern Great Plains
+38047,3,Northern Great Plains
+38049,3,Northern Great Plains
+38051,3,Northern Great Plains
+38053,3,Northern Great Plains
+38055,3,Northern Great Plains
+38057,3,Northern Great Plains
+38059,3,Northern Great Plains
+38061,3,Northern Great Plains
+38063,3,Northern Great Plains
+38065,3,Northern Great Plains
+38067,3,Northern Great Plains
+38069,3,Northern Great Plains
+38071,3,Northern Great Plains
+38073,3,Northern Great Plains
+38075,3,Northern Great Plains
+38077,3,Northern Great Plains
+38079,3,Northern Great Plains
+38081,3,Northern Great Plains
+38083,3,Northern Great Plains
+38085,3,Northern Great Plains
+38087,3,Northern Great Plains
+38089,3,Northern Great Plains
+38091,3,Northern Great Plains
+38093,3,Northern Great Plains
+38095,3,Northern Great Plains
+38097,3,Northern Great Plains
+38099,3,Northern Great Plains
+38101,3,Northern Great Plains
+38103,3,Northern Great Plains
+38105,3,Northern Great Plains
+39001,1,Heartland
+39003,1,Heartland
+39005,2,Northern Crescent
+39007,2,Northern Crescent
+39009,5,Eastern Uplands
+39011,1,Heartland
+39013,5,Eastern Uplands
+39015,1,Heartland
+39017,1,Heartland
+39019,5,Eastern Uplands
+39021,1,Heartland
+39023,1,Heartland
+39025,1,Heartland
+39027,1,Heartland
+39029,2,Northern Crescent
+39031,5,Eastern Uplands
+39033,2,Northern Crescent
+39035,2,Northern Crescent
+39037,1,Heartland
+39039,1,Heartland
+39041,1,Heartland
+39043,2,Northern Crescent
+39045,1,Heartland
+39047,1,Heartland
+39049,1,Heartland
+39051,1,Heartland
+39053,1,Heartland
+39055,2,Northern Crescent
+39057,1,Heartland
+39059,5,Eastern Uplands
+39061,1,Heartland
+39063,1,Heartland
+39065,1,Heartland
+39067,5,Eastern Uplands
+39069,1,Heartland
+39071,1,Heartland
+39073,5,Eastern Uplands
+39075,5,Eastern Uplands
+39077,2,Northern Crescent
+39079,1,Heartland
+39081,5,Eastern Uplands
+39083,1,Heartland
+39085,2,Northern Crescent
+39087,1,Heartland
+39089,1,Heartland
+39091,1,Heartland
+39093,2,Northern Crescent
+39095,1,Heartland
+39097,1,Heartland
+39099,2,Northern Crescent
+39101,1,Heartland
+39103,2,Northern Crescent
+39105,5,Eastern Uplands
+39107,1,Heartland
+39109,1,Heartland
+39111,5,Eastern Uplands
+39113,1,Heartland
+39115,5,Eastern Uplands
+39117,1,Heartland
+39119,5,Eastern Uplands
+39121,5,Eastern Uplands
+39123,2,Northern Crescent
+39125,1,Heartland
+39127,5,Eastern Uplands
+39129,1,Heartland
+39131,1,Heartland
+39133,2,Northern Crescent
+39135,1,Heartland
+39137,1,Heartland
+39139,2,Northern Crescent
+39141,1,Heartland
+39143,2,Northern Crescent
+39145,1,Heartland
+39147,2,Northern Crescent
+39149,1,Heartland
+39151,2,Northern Crescent
+39153,2,Northern Crescent
+39155,2,Northern Crescent
+39157,5,Eastern Uplands
+39159,1,Heartland
+39161,1,Heartland
+39163,5,Eastern Uplands
+39165,1,Heartland
+39167,5,Eastern Uplands
+39169,2,Northern Crescent
+39171,1,Heartland
+39173,1,Heartland
+39175,2,Northern Crescent
+40001,5,Eastern Uplands
+40003,4,Prairie Gateway
+40005,4,Prairie Gateway
+40007,4,Prairie Gateway
+40009,4,Prairie Gateway
+40011,4,Prairie Gateway
+40013,4,Prairie Gateway
+40015,4,Prairie Gateway
+40017,4,Prairie Gateway
+40019,4,Prairie Gateway
+40021,5,Eastern Uplands
+40023,5,Eastern Uplands
+40025,4,Prairie Gateway
+40027,4,Prairie Gateway
+40029,4,Prairie Gateway
+40031,4,Prairie Gateway
+40033,4,Prairie Gateway
+40035,5,Eastern Uplands
+40037,4,Prairie Gateway
+40039,4,Prairie Gateway
+40041,5,Eastern Uplands
+40043,4,Prairie Gateway
+40045,4,Prairie Gateway
+40047,4,Prairie Gateway
+40049,4,Prairie Gateway
+40051,4,Prairie Gateway
+40053,4,Prairie Gateway
+40055,4,Prairie Gateway
+40057,4,Prairie Gateway
+40059,4,Prairie Gateway
+40061,5,Eastern Uplands
+40063,5,Eastern Uplands
+40065,4,Prairie Gateway
+40067,4,Prairie Gateway
+40069,4,Prairie Gateway
+40071,4,Prairie Gateway
+40073,4,Prairie Gateway
+40075,4,Prairie Gateway
+40077,5,Eastern Uplands
+40079,5,Eastern Uplands
+40081,4,Prairie Gateway
+40083,4,Prairie Gateway
+40085,4,Prairie Gateway
+40087,4,Prairie Gateway
+40089,5,Eastern Uplands
+40091,5,Eastern Uplands
+40093,4,Prairie Gateway
+40095,4,Prairie Gateway
+40097,5,Eastern Uplands
+40099,4,Prairie Gateway
+40101,5,Eastern Uplands
+40103,4,Prairie Gateway
+40105,5,Eastern Uplands
+40107,4,Prairie Gateway
+40109,4,Prairie Gateway
+40111,5,Eastern Uplands
+40113,5,Eastern Uplands
+40115,5,Eastern Uplands
+40117,5,Eastern Uplands
+40119,4,Prairie Gateway
+40121,5,Eastern Uplands
+40123,4,Prairie Gateway
+40125,4,Prairie Gateway
+40127,5,Eastern Uplands
+40129,4,Prairie Gateway
+40131,5,Eastern Uplands
+40133,4,Prairie Gateway
+40135,5,Eastern Uplands
+40137,4,Prairie Gateway
+40139,4,Prairie Gateway
+40141,4,Prairie Gateway
+40143,5,Eastern Uplands
+40145,5,Eastern Uplands
+40147,5,Eastern Uplands
+40149,4,Prairie Gateway
+40151,4,Prairie Gateway
+40153,4,Prairie Gateway
+41001,7,Fruitful Rim
+41003,7,Fruitful Rim
+41005,7,Fruitful Rim
+41007,7,Fruitful Rim
+41009,7,Fruitful Rim
+41011,7,Fruitful Rim
+41013,8,Basin and Range
+41015,7,Fruitful Rim
+41017,8,Basin and Range
+41019,7,Fruitful Rim
+41021,8,Basin and Range
+41023,8,Basin and Range
+41025,8,Basin and Range
+41027,8,Basin and Range
+41029,7,Fruitful Rim
+41031,8,Basin and Range
+41033,7,Fruitful Rim
+41035,8,Basin and Range
+41037,8,Basin and Range
+41039,7,Fruitful Rim
+41041,7,Fruitful Rim
+41043,7,Fruitful Rim
+41045,8,Basin and Range
+41047,7,Fruitful Rim
+41049,8,Basin and Range
+41051,7,Fruitful Rim
+41053,7,Fruitful Rim
+41055,8,Basin and Range
+41057,7,Fruitful Rim
+41059,7,Fruitful Rim
+41061,7,Fruitful Rim
+41063,7,Fruitful Rim
+41065,8,Basin and Range
+41067,7,Fruitful Rim
+41069,8,Basin and Range
+41071,7,Fruitful Rim
+42001,2,Northern Crescent
+42003,5,Eastern Uplands
+42005,5,Eastern Uplands
+42007,5,Eastern Uplands
+42009,2,Northern Crescent
+42011,2,Northern Crescent
+42013,2,Northern Crescent
+42015,2,Northern Crescent
+42017,2,Northern Crescent
+42019,5,Eastern Uplands
+42021,2,Northern Crescent
+42023,2,Northern Crescent
+42025,2,Northern Crescent
+42027,2,Northern Crescent
+42029,2,Northern Crescent
+42031,5,Eastern Uplands
+42033,2,Northern Crescent
+42035,2,Northern Crescent
+42037,2,Northern Crescent
+42039,2,Northern Crescent
+42041,2,Northern Crescent
+42043,2,Northern Crescent
+42045,2,Northern Crescent
+42047,2,Northern Crescent
+42049,2,Northern Crescent
+42051,5,Eastern Uplands
+42053,2,Northern Crescent
+42055,2,Northern Crescent
+42057,2,Northern Crescent
+42059,5,Eastern Uplands
+42061,2,Northern Crescent
+42063,5,Eastern Uplands
+42065,5,Eastern Uplands
+42067,2,Northern Crescent
+42069,2,Northern Crescent
+42071,2,Northern Crescent
+42073,5,Eastern Uplands
+42075,2,Northern Crescent
+42077,2,Northern Crescent
+42079,2,Northern Crescent
+42081,2,Northern Crescent
+42083,2,Northern Crescent
+42085,2,Northern Crescent
+42087,2,Northern Crescent
+42089,2,Northern Crescent
+42091,2,Northern Crescent
+42093,2,Northern Crescent
+42095,2,Northern Crescent
+42097,2,Northern Crescent
+42099,2,Northern Crescent
+42101,2,Northern Crescent
+42103,2,Northern Crescent
+42105,2,Northern Crescent
+42107,2,Northern Crescent
+42109,2,Northern Crescent
+42111,5,Eastern Uplands
+42113,2,Northern Crescent
+42115,2,Northern Crescent
+42117,2,Northern Crescent
+42119,2,Northern Crescent
+42121,2,Northern Crescent
+42123,2,Northern Crescent
+42125,5,Eastern Uplands
+42127,2,Northern Crescent
+42129,5,Eastern Uplands
+42131,2,Northern Crescent
+42133,2,Northern Crescent
+44001,2,Northern Crescent
+44003,2,Northern Crescent
+44007,2,Northern Crescent
+44009,2,Northern Crescent
+45001,6,Southern Seaboard
+45003,6,Southern Seaboard
+45005,7,Fruitful Rim
+45007,6,Southern Seaboard
+45009,7,Fruitful Rim
+45011,7,Fruitful Rim
+45013,7,Fruitful Rim
+45015,7,Fruitful Rim
+45017,6,Southern Seaboard
+45019,7,Fruitful Rim
+45021,6,Southern Seaboard
+45023,6,Southern Seaboard
+45025,6,Southern Seaboard
+45027,6,Southern Seaboard
+45029,7,Fruitful Rim
+45031,6,Southern Seaboard
+45033,6,Southern Seaboard
+45035,7,Fruitful Rim
+45037,6,Southern Seaboard
+45039,6,Southern Seaboard
+45041,6,Southern Seaboard
+45043,6,Southern Seaboard
+45045,6,Southern Seaboard
+45047,6,Southern Seaboard
+45049,7,Fruitful Rim
+45051,6,Southern Seaboard
+45053,7,Fruitful Rim
+45055,6,Southern Seaboard
+45057,6,Southern Seaboard
+45059,6,Southern Seaboard
+45061,6,Southern Seaboard
+45063,6,Southern Seaboard
+45065,6,Southern Seaboard
+45067,6,Southern Seaboard
+45069,6,Southern Seaboard
+45071,6,Southern Seaboard
+45073,6,Southern Seaboard
+45075,6,Southern Seaboard
+45077,6,Southern Seaboard
+45079,6,Southern Seaboard
+45081,6,Southern Seaboard
+45083,6,Southern Seaboard
+45085,6,Southern Seaboard
+45087,6,Southern Seaboard
+45089,6,Southern Seaboard
+45091,6,Southern Seaboard
+46003,3,Northern Great Plains
+46005,3,Northern Great Plains
+46007,3,Northern Great Plains
+46009,1,Heartland
+46011,1,Heartland
+46013,3,Northern Great Plains
+46015,3,Northern Great Plains
+46017,3,Northern Great Plains
+46019,3,Northern Great Plains
+46021,3,Northern Great Plains
+46023,1,Heartland
+46025,3,Northern Great Plains
+46027,1,Heartland
+46029,3,Northern Great Plains
+46031,3,Northern Great Plains
+46033,3,Northern Great Plains
+46035,1,Heartland
+46037,3,Northern Great Plains
+46039,3,Northern Great Plains
+46041,3,Northern Great Plains
+46043,1,Heartland
+46045,3,Northern Great Plains
+46047,3,Northern Great Plains
+46049,3,Northern Great Plains
+46051,3,Northern Great Plains
+46053,3,Northern Great Plains
+46055,3,Northern Great Plains
+46057,3,Northern Great Plains
+46059,3,Northern Great Plains
+46061,1,Heartland
+46063,3,Northern Great Plains
+46065,3,Northern Great Plains
+46067,1,Heartland
+46069,3,Northern Great Plains
+46071,3,Northern Great Plains
+46073,3,Northern Great Plains
+46075,3,Northern Great Plains
+46077,1,Heartland
+46079,1,Heartland
+46081,3,Northern Great Plains
+46083,1,Heartland
+46085,3,Northern Great Plains
+46087,1,Heartland
+46089,3,Northern Great Plains
+46091,3,Northern Great Plains
+46093,3,Northern Great Plains
+46095,3,Northern Great Plains
+46097,1,Heartland
+46099,1,Heartland
+46101,1,Heartland
+46103,3,Northern Great Plains
+46105,3,Northern Great Plains
+46107,3,Northern Great Plains
+46109,3,Northern Great Plains
+46111,1,Heartland
+46113,3,Northern Great Plains
+46115,3,Northern Great Plains
+46117,3,Northern Great Plains
+46119,3,Northern Great Plains
+46121,3,Northern Great Plains
+46123,3,Northern Great Plains
+46125,1,Heartland
+46127,1,Heartland
+46129,3,Northern Great Plains
+46135,1,Heartland
+46137,3,Northern Great Plains
+47001,5,Eastern Uplands
+47003,5,Eastern Uplands
+47005,9,Mississippi Portal
+47007,5,Eastern Uplands
+47009,5,Eastern Uplands
+47011,5,Eastern Uplands
+47013,5,Eastern Uplands
+47015,5,Eastern Uplands
+47017,9,Mississippi Portal
+47019,5,Eastern Uplands
+47021,9,Mississippi Portal
+47023,9,Mississippi Portal
+47025,5,Eastern Uplands
+47027,5,Eastern Uplands
+47029,5,Eastern Uplands
+47031,5,Eastern Uplands
+47033,9,Mississippi Portal
+47035,5,Eastern Uplands
+47037,5,Eastern Uplands
+47039,9,Mississippi Portal
+47041,5,Eastern Uplands
+47043,9,Mississippi Portal
+47045,9,Mississippi Portal
+47047,9,Mississippi Portal
+47049,5,Eastern Uplands
+47051,5,Eastern Uplands
+47053,9,Mississippi Portal
+47055,5,Eastern Uplands
+47057,5,Eastern Uplands
+47059,5,Eastern Uplands
+47061,5,Eastern Uplands
+47063,5,Eastern Uplands
+47065,5,Eastern Uplands
+47067,5,Eastern Uplands
+47069,9,Mississippi Portal
+47071,9,Mississippi Portal
+47073,5,Eastern Uplands
+47075,9,Mississippi Portal
+47077,9,Mississippi Portal
+47079,9,Mississippi Portal
+47081,9,Mississippi Portal
+47083,9,Mississippi Portal
+47085,9,Mississippi Portal
+47087,5,Eastern Uplands
+47089,5,Eastern Uplands
+47091,5,Eastern Uplands
+47093,5,Eastern Uplands
+47095,9,Mississippi Portal
+47097,9,Mississippi Portal
+47099,9,Mississippi Portal
+47101,9,Mississippi Portal
+47103,5,Eastern Uplands
+47105,5,Eastern Uplands
+47107,5,Eastern Uplands
+47109,9,Mississippi Portal
+47111,5,Eastern Uplands
+47113,9,Mississippi Portal
+47115,5,Eastern Uplands
+47117,5,Eastern Uplands
+47119,5,Eastern Uplands
+47121,5,Eastern Uplands
+47123,5,Eastern Uplands
+47125,9,Mississippi Portal
+47127,5,Eastern Uplands
+47129,5,Eastern Uplands
+47131,9,Mississippi Portal
+47133,5,Eastern Uplands
+47135,9,Mississippi Portal
+47137,5,Eastern Uplands
+47139,5,Eastern Uplands
+47141,5,Eastern Uplands
+47143,5,Eastern Uplands
+47145,5,Eastern Uplands
+47147,9,Mississippi Portal
+47149,5,Eastern Uplands
+47151,5,Eastern Uplands
+47153,5,Eastern Uplands
+47155,5,Eastern Uplands
+47157,9,Mississippi Portal
+47159,5,Eastern Uplands
+47161,9,Mississippi Portal
+47163,5,Eastern Uplands
+47165,5,Eastern Uplands
+47167,9,Mississippi Portal
+47169,5,Eastern Uplands
+47171,5,Eastern Uplands
+47173,5,Eastern Uplands
+47175,5,Eastern Uplands
+47177,5,Eastern Uplands
+47179,5,Eastern Uplands
+47181,9,Mississippi Portal
+47183,9,Mississippi Portal
+47185,5,Eastern Uplands
+47187,5,Eastern Uplands
+47189,5,Eastern Uplands
+48001,6,Southern Seaboard
+48003,4,Prairie Gateway
+48005,6,Southern Seaboard
+48007,7,Fruitful Rim
+48009,4,Prairie Gateway
+48011,4,Prairie Gateway
+48013,7,Fruitful Rim
+48015,4,Prairie Gateway
+48017,4,Prairie Gateway
+48019,4,Prairie Gateway
+48021,4,Prairie Gateway
+48023,4,Prairie Gateway
+48025,4,Prairie Gateway
+48027,4,Prairie Gateway
+48029,4,Prairie Gateway
+48031,4,Prairie Gateway
+48033,4,Prairie Gateway
+48035,4,Prairie Gateway
+48037,6,Southern Seaboard
+48039,7,Fruitful Rim
+48041,6,Southern Seaboard
+48043,7,Fruitful Rim
+48045,4,Prairie Gateway
+48047,7,Fruitful Rim
+48049,4,Prairie Gateway
+48051,4,Prairie Gateway
+48053,4,Prairie Gateway
+48055,4,Prairie Gateway
+48057,7,Fruitful Rim
+48059,4,Prairie Gateway
+48061,7,Fruitful Rim
+48063,6,Southern Seaboard
+48065,4,Prairie Gateway
+48067,6,Southern Seaboard
+48069,4,Prairie Gateway
+48071,7,Fruitful Rim
+48073,6,Southern Seaboard
+48075,4,Prairie Gateway
+48077,4,Prairie Gateway
+48079,4,Prairie Gateway
+48081,4,Prairie Gateway
+48083,4,Prairie Gateway
+48085,4,Prairie Gateway
+48087,4,Prairie Gateway
+48089,4,Prairie Gateway
+48091,4,Prairie Gateway
+48093,4,Prairie Gateway
+48095,4,Prairie Gateway
+48097,4,Prairie Gateway
+48099,4,Prairie Gateway
+48101,4,Prairie Gateway
+48103,7,Fruitful Rim
+48105,4,Prairie Gateway
+48107,4,Prairie Gateway
+48109,7,Fruitful Rim
+48111,4,Prairie Gateway
+48113,4,Prairie Gateway
+48115,4,Prairie Gateway
+48117,4,Prairie Gateway
+48119,4,Prairie Gateway
+48121,4,Prairie Gateway
+48123,4,Prairie Gateway
+48125,4,Prairie Gateway
+48127,7,Fruitful Rim
+48129,4,Prairie Gateway
+48131,7,Fruitful Rim
+48133,4,Prairie Gateway
+48135,7,Fruitful Rim
+48137,4,Prairie Gateway
+48139,4,Prairie Gateway
+48141,7,Fruitful Rim
+48143,4,Prairie Gateway
+48145,4,Prairie Gateway
+48147,4,Prairie Gateway
+48149,4,Prairie Gateway
+48151,4,Prairie Gateway
+48153,4,Prairie Gateway
+48155,4,Prairie Gateway
+48157,7,Fruitful Rim
+48159,6,Southern Seaboard
+48161,6,Southern Seaboard
+48163,7,Fruitful Rim
+48165,4,Prairie Gateway
+48167,7,Fruitful Rim
+48169,4,Prairie Gateway
+48171,4,Prairie Gateway
+48173,4,Prairie Gateway
+48175,4,Prairie Gateway
+48177,4,Prairie Gateway
+48179,4,Prairie Gateway
+48181,4,Prairie Gateway
+48183,6,Southern Seaboard
+48185,6,Southern Seaboard
+48187,4,Prairie Gateway
+48189,4,Prairie Gateway
+48191,4,Prairie Gateway
+48193,4,Prairie Gateway
+48195,4,Prairie Gateway
+48197,4,Prairie Gateway
+48199,6,Southern Seaboard
+48201,7,Fruitful Rim
+48203,6,Southern Seaboard
+48205,4,Prairie Gateway
+48207,4,Prairie Gateway
+48209,4,Prairie Gateway
+48211,4,Prairie Gateway
+48213,6,Southern Seaboard
+48215,7,Fruitful Rim
+48217,4,Prairie Gateway
+48219,4,Prairie Gateway
+48221,4,Prairie Gateway
+48223,6,Southern Seaboard
+48225,6,Southern Seaboard
+48227,4,Prairie Gateway
+48229,7,Fruitful Rim
+48231,4,Prairie Gateway
+48233,4,Prairie Gateway
+48235,4,Prairie Gateway
+48237,4,Prairie Gateway
+48239,7,Fruitful Rim
+48241,6,Southern Seaboard
+48243,7,Fruitful Rim
+48245,7,Fruitful Rim
+48247,7,Fruitful Rim
+48249,7,Fruitful Rim
+48251,4,Prairie Gateway
+48253,4,Prairie Gateway
+48255,4,Prairie Gateway
+48257,4,Prairie Gateway
+48259,4,Prairie Gateway
+48261,7,Fruitful Rim
+48263,4,Prairie Gateway
+48265,4,Prairie Gateway
+48267,4,Prairie Gateway
+48269,4,Prairie Gateway
+48271,4,Prairie Gateway
+48273,7,Fruitful Rim
+48275,4,Prairie Gateway
+48277,4,Prairie Gateway
+48279,4,Prairie Gateway
+48281,4,Prairie Gateway
+48283,7,Fruitful Rim
+48285,4,Prairie Gateway
+48287,4,Prairie Gateway
+48289,6,Southern Seaboard
+48291,7,Fruitful Rim
+48293,4,Prairie Gateway
+48295,4,Prairie Gateway
+48297,7,Fruitful Rim
+48299,4,Prairie Gateway
+48301,7,Fruitful Rim
+48303,4,Prairie Gateway
+48305,4,Prairie Gateway
+48307,4,Prairie Gateway
+48309,4,Prairie Gateway
+48311,7,Fruitful Rim
+48313,6,Southern Seaboard
+48315,6,Southern Seaboard
+48317,4,Prairie Gateway
+48319,4,Prairie Gateway
+48321,7,Fruitful Rim
+48323,7,Fruitful Rim
+48325,4,Prairie Gateway
+48327,4,Prairie Gateway
+48329,4,Prairie Gateway
+48331,4,Prairie Gateway
+48333,4,Prairie Gateway
+48335,4,Prairie Gateway
+48337,4,Prairie Gateway
+48339,6,Southern Seaboard
+48341,4,Prairie Gateway
+48343,6,Southern Seaboard
+48345,4,Prairie Gateway
+48347,6,Southern Seaboard
+48349,4,Prairie Gateway
+48351,6,Southern Seaboard
+48353,4,Prairie Gateway
+48355,7,Fruitful Rim
+48357,4,Prairie Gateway
+48359,4,Prairie Gateway
+48361,7,Fruitful Rim
+48363,4,Prairie Gateway
+48365,6,Southern Seaboard
+48367,4,Prairie Gateway
+48369,4,Prairie Gateway
+48371,7,Fruitful Rim
+48373,6,Southern Seaboard
+48375,4,Prairie Gateway
+48377,7,Fruitful Rim
+48379,6,Southern Seaboard
+48381,4,Prairie Gateway
+48383,4,Prairie Gateway
+48385,4,Prairie Gateway
+48387,6,Southern Seaboard
+48389,7,Fruitful Rim
+48391,7,Fruitful Rim
+48393,4,Prairie Gateway
+48395,6,Southern Seaboard
+48397,4,Prairie Gateway
+48399,4,Prairie Gateway
+48401,6,Southern Seaboard
+48403,6,Southern Seaboard
+48405,6,Southern Seaboard
+48407,6,Southern Seaboard
+48409,7,Fruitful Rim
+48411,4,Prairie Gateway
+48413,4,Prairie Gateway
+48415,4,Prairie Gateway
+48417,4,Prairie Gateway
+48419,6,Southern Seaboard
+48421,4,Prairie Gateway
+48423,6,Southern Seaboard
+48425,4,Prairie Gateway
+48427,7,Fruitful Rim
+48429,4,Prairie Gateway
+48431,4,Prairie Gateway
+48433,4,Prairie Gateway
+48435,4,Prairie Gateway
+48437,4,Prairie Gateway
+48439,4,Prairie Gateway
+48441,4,Prairie Gateway
+48443,7,Fruitful Rim
+48445,4,Prairie Gateway
+48447,4,Prairie Gateway
+48449,6,Southern Seaboard
+48451,4,Prairie Gateway
+48453,4,Prairie Gateway
+48455,6,Southern Seaboard
+48457,6,Southern Seaboard
+48459,6,Southern Seaboard
+48461,4,Prairie Gateway
+48463,4,Prairie Gateway
+48465,4,Prairie Gateway
+48467,6,Southern Seaboard
+48469,7,Fruitful Rim
+48471,6,Southern Seaboard
+48473,6,Southern Seaboard
+48475,7,Fruitful Rim
+48477,4,Prairie Gateway
+48479,7,Fruitful Rim
+48481,7,Fruitful Rim
+48483,4,Prairie Gateway
+48485,4,Prairie Gateway
+48487,4,Prairie Gateway
+48489,7,Fruitful Rim
+48491,4,Prairie Gateway
+48493,4,Prairie Gateway
+48495,7,Fruitful Rim
+48497,4,Prairie Gateway
+48499,6,Southern Seaboard
+48501,4,Prairie Gateway
+48503,4,Prairie Gateway
+48505,7,Fruitful Rim
+48507,7,Fruitful Rim
+49001,8,Basin and Range
+49003,8,Basin and Range
+49005,8,Basin and Range
+49007,8,Basin and Range
+49009,8,Basin and Range
+49011,8,Basin and Range
+49013,8,Basin and Range
+49015,8,Basin and Range
+49017,8,Basin and Range
+49019,8,Basin and Range
+49021,8,Basin and Range
+49023,8,Basin and Range
+49025,8,Basin and Range
+49027,8,Basin and Range
+49029,8,Basin and Range
+49031,8,Basin and Range
+49033,8,Basin and Range
+49035,8,Basin and Range
+49037,8,Basin and Range
+49039,8,Basin and Range
+49041,8,Basin and Range
+49043,8,Basin and Range
+49045,8,Basin and Range
+49047,8,Basin and Range
+49049,8,Basin and Range
+49051,8,Basin and Range
+49053,8,Basin and Range
+49055,8,Basin and Range
+49057,8,Basin and Range
+50001,2,Northern Crescent
+50003,2,Northern Crescent
+50005,2,Northern Crescent
+50007,2,Northern Crescent
+50009,2,Northern Crescent
+50011,2,Northern Crescent
+50013,2,Northern Crescent
+50015,2,Northern Crescent
+50017,2,Northern Crescent
+50019,2,Northern Crescent
+50021,2,Northern Crescent
+50023,2,Northern Crescent
+50025,2,Northern Crescent
+50027,2,Northern Crescent
+51001,6,Southern Seaboard
+51003,6,Southern Seaboard
+51005,5,Eastern Uplands
+51007,6,Southern Seaboard
+51009,6,Southern Seaboard
+51011,6,Southern Seaboard
+51013,6,Southern Seaboard
+51015,5,Eastern Uplands
+51017,5,Eastern Uplands
+51019,6,Southern Seaboard
+51021,5,Eastern Uplands
+51023,5,Eastern Uplands
+51025,6,Southern Seaboard
+51027,5,Eastern Uplands
+51029,6,Southern Seaboard
+51031,6,Southern Seaboard
+51033,6,Southern Seaboard
+51035,5,Eastern Uplands
+51036,6,Southern Seaboard
+51037,6,Southern Seaboard
+51041,6,Southern Seaboard
+51043,6,Southern Seaboard
+51045,5,Eastern Uplands
+51047,6,Southern Seaboard
+51049,6,Southern Seaboard
+51051,5,Eastern Uplands
+51053,6,Southern Seaboard
+51057,6,Southern Seaboard
+51059,6,Southern Seaboard
+51061,6,Southern Seaboard
+51063,5,Eastern Uplands
+51065,6,Southern Seaboard
+51067,6,Southern Seaboard
+51069,6,Southern Seaboard
+51071,5,Eastern Uplands
+51073,6,Southern Seaboard
+51075,6,Southern Seaboard
+51077,5,Eastern Uplands
+51079,6,Southern Seaboard
+51081,6,Southern Seaboard
+51083,6,Southern Seaboard
+51085,6,Southern Seaboard
+51087,6,Southern Seaboard
+51089,6,Southern Seaboard
+51091,5,Eastern Uplands
+51093,6,Southern Seaboard
+51095,6,Southern Seaboard
+51097,6,Southern Seaboard
+51099,6,Southern Seaboard
+51101,6,Southern Seaboard
+51103,6,Southern Seaboard
+51105,5,Eastern Uplands
+51107,6,Southern Seaboard
+51109,6,Southern Seaboard
+51111,6,Southern Seaboard
+51113,6,Southern Seaboard
+51115,6,Southern Seaboard
+51117,6,Southern Seaboard
+51119,6,Southern Seaboard
+51121,5,Eastern Uplands
+51125,6,Southern Seaboard
+51127,6,Southern Seaboard
+51131,6,Southern Seaboard
+51133,6,Southern Seaboard
+51135,6,Southern Seaboard
+51137,6,Southern Seaboard
+51139,6,Southern Seaboard
+51141,6,Southern Seaboard
+51143,6,Southern Seaboard
+51145,6,Southern Seaboard
+51147,6,Southern Seaboard
+51149,6,Southern Seaboard
+51153,6,Southern Seaboard
+51155,5,Eastern Uplands
+51157,6,Southern Seaboard
+51159,6,Southern Seaboard
+51161,5,Eastern Uplands
+51163,5,Eastern Uplands
+51165,6,Southern Seaboard
+51167,5,Eastern Uplands
+51169,5,Eastern Uplands
+51171,6,Southern Seaboard
+51173,5,Eastern Uplands
+51175,6,Southern Seaboard
+51177,6,Southern Seaboard
+51179,6,Southern Seaboard
+51181,6,Southern Seaboard
+51183,6,Southern Seaboard
+51185,5,Eastern Uplands
+51187,6,Southern Seaboard
+51191,5,Eastern Uplands
+51193,6,Southern Seaboard
+51195,5,Eastern Uplands
+51197,5,Eastern Uplands
+51199,6,Southern Seaboard
+51510,6,Southern Seaboard
+51515,6,Southern Seaboard
+51530,5,Eastern Uplands
+51540,6,Southern Seaboard
+51550,6,Southern Seaboard
+51560,5,Eastern Uplands
+51570,6,Southern Seaboard
+51580,5,Eastern Uplands
+51590,6,Southern Seaboard
+51595,6,Southern Seaboard
+51600,6,Southern Seaboard
+51610,6,Southern Seaboard
+51620,6,Southern Seaboard
+51630,6,Southern Seaboard
+51640,5,Eastern Uplands
+51650,6,Southern Seaboard
+51660,6,Southern Seaboard
+51670,6,Southern Seaboard
+51678,5,Eastern Uplands
+51680,6,Southern Seaboard
+51683,6,Southern Seaboard
+51685,6,Southern Seaboard
+51690,6,Southern Seaboard
+51700,6,Southern Seaboard
+51710,6,Southern Seaboard
+51720,5,Eastern Uplands
+51730,6,Southern Seaboard
+51735,6,Southern Seaboard
+51740,6,Southern Seaboard
+51750,5,Eastern Uplands
+51760,6,Southern Seaboard
+51770,5,Eastern Uplands
+51775,5,Eastern Uplands
+51780,6,Southern Seaboard
+51790,5,Eastern Uplands
+51800,6,Southern Seaboard
+51810,6,Southern Seaboard
+51820,5,Eastern Uplands
+51830,6,Southern Seaboard
+51840,6,Southern Seaboard
+53001,7,Fruitful Rim
+53003,8,Basin and Range
+53005,7,Fruitful Rim
+53007,7,Fruitful Rim
+53009,7,Fruitful Rim
+53011,7,Fruitful Rim
+53013,8,Basin and Range
+53015,7,Fruitful Rim
+53017,7,Fruitful Rim
+53019,8,Basin and Range
+53021,7,Fruitful Rim
+53023,8,Basin and Range
+53025,7,Fruitful Rim
+53027,7,Fruitful Rim
+53029,7,Fruitful Rim
+53031,7,Fruitful Rim
+53033,7,Fruitful Rim
+53035,7,Fruitful Rim
+53037,7,Fruitful Rim
+53039,7,Fruitful Rim
+53041,7,Fruitful Rim
+53043,7,Fruitful Rim
+53045,7,Fruitful Rim
+53047,7,Fruitful Rim
+53049,7,Fruitful Rim
+53051,8,Basin and Range
+53053,7,Fruitful Rim
+53057,7,Fruitful Rim
+53059,7,Fruitful Rim
+53061,7,Fruitful Rim
+53063,8,Basin and Range
+53065,8,Basin and Range
+53067,7,Fruitful Rim
+53069,7,Fruitful Rim
+53071,8,Basin and Range
+53073,7,Fruitful Rim
+53075,8,Basin and Range
+53077,7,Fruitful Rim
+54001,5,Eastern Uplands
+54003,5,Eastern Uplands
+54005,5,Eastern Uplands
+54007,5,Eastern Uplands
+54009,5,Eastern Uplands
+54011,5,Eastern Uplands
+54013,5,Eastern Uplands
+54015,5,Eastern Uplands
+54017,5,Eastern Uplands
+54019,5,Eastern Uplands
+54021,5,Eastern Uplands
+54023,5,Eastern Uplands
+54025,5,Eastern Uplands
+54027,5,Eastern Uplands
+54029,5,Eastern Uplands
+54031,5,Eastern Uplands
+54033,5,Eastern Uplands
+54035,5,Eastern Uplands
+54037,5,Eastern Uplands
+54039,5,Eastern Uplands
+54041,5,Eastern Uplands
+54043,5,Eastern Uplands
+54045,5,Eastern Uplands
+54047,5,Eastern Uplands
+54049,5,Eastern Uplands
+54051,5,Eastern Uplands
+54053,5,Eastern Uplands
+54055,5,Eastern Uplands
+54057,5,Eastern Uplands
+54059,5,Eastern Uplands
+54061,5,Eastern Uplands
+54063,5,Eastern Uplands
+54065,5,Eastern Uplands
+54067,5,Eastern Uplands
+54069,5,Eastern Uplands
+54071,5,Eastern Uplands
+54073,5,Eastern Uplands
+54075,5,Eastern Uplands
+54077,5,Eastern Uplands
+54079,5,Eastern Uplands
+54081,5,Eastern Uplands
+54083,5,Eastern Uplands
+54085,5,Eastern Uplands
+54087,5,Eastern Uplands
+54089,5,Eastern Uplands
+54091,5,Eastern Uplands
+54093,5,Eastern Uplands
+54095,5,Eastern Uplands
+54097,5,Eastern Uplands
+54099,5,Eastern Uplands
+54101,5,Eastern Uplands
+54103,5,Eastern Uplands
+54105,5,Eastern Uplands
+54107,5,Eastern Uplands
+54109,5,Eastern Uplands
+55001,2,Northern Crescent
+55003,2,Northern Crescent
+55005,2,Northern Crescent
+55007,2,Northern Crescent
+55009,2,Northern Crescent
+55011,2,Northern Crescent
+55013,2,Northern Crescent
+55015,2,Northern Crescent
+55017,2,Northern Crescent
+55019,2,Northern Crescent
+55021,2,Northern Crescent
+55023,2,Northern Crescent
+55025,2,Northern Crescent
+55027,2,Northern Crescent
+55029,2,Northern Crescent
+55031,2,Northern Crescent
+55033,2,Northern Crescent
+55035,2,Northern Crescent
+55037,2,Northern Crescent
+55039,2,Northern Crescent
+55041,2,Northern Crescent
+55043,2,Northern Crescent
+55045,2,Northern Crescent
+55047,2,Northern Crescent
+55049,2,Northern Crescent
+55051,2,Northern Crescent
+55053,2,Northern Crescent
+55055,2,Northern Crescent
+55057,2,Northern Crescent
+55059,2,Northern Crescent
+55061,2,Northern Crescent
+55063,2,Northern Crescent
+55065,2,Northern Crescent
+55067,2,Northern Crescent
+55069,2,Northern Crescent
+55071,2,Northern Crescent
+55073,2,Northern Crescent
+55075,2,Northern Crescent
+55077,2,Northern Crescent
+55078,2,Northern Crescent
+55079,2,Northern Crescent
+55081,2,Northern Crescent
+55083,2,Northern Crescent
+55085,2,Northern Crescent
+55087,2,Northern Crescent
+55089,2,Northern Crescent
+55091,2,Northern Crescent
+55093,2,Northern Crescent
+55095,2,Northern Crescent
+55097,2,Northern Crescent
+55099,2,Northern Crescent
+55101,2,Northern Crescent
+55103,2,Northern Crescent
+55105,2,Northern Crescent
+55107,2,Northern Crescent
+55109,2,Northern Crescent
+55111,2,Northern Crescent
+55113,2,Northern Crescent
+55115,2,Northern Crescent
+55117,2,Northern Crescent
+55119,2,Northern Crescent
+55121,2,Northern Crescent
+55123,2,Northern Crescent
+55125,2,Northern Crescent
+55127,2,Northern Crescent
+55129,2,Northern Crescent
+55131,2,Northern Crescent
+55133,2,Northern Crescent
+55135,2,Northern Crescent
+55137,2,Northern Crescent
+55139,2,Northern Crescent
+55141,2,Northern Crescent
+56001,8,Basin and Range
+56003,8,Basin and Range
+56005,3,Northern Great Plains
+56007,8,Basin and Range
+56009,3,Northern Great Plains
+56011,3,Northern Great Plains
+56013,8,Basin and Range
+56015,3,Northern Great Plains
+56017,8,Basin and Range
+56019,3,Northern Great Plains
+56021,3,Northern Great Plains
+56023,8,Basin and Range
+56025,8,Basin and Range
+56027,3,Northern Great Plains
+56029,8,Basin and Range
+56031,3,Northern Great Plains
+56033,3,Northern Great Plains
+56035,8,Basin and Range
+56037,8,Basin and Range
+56039,8,Basin and Range
+56041,8,Basin and Range
+56043,8,Basin and Range
+56045,3,Northern Great Plains
+44005,2,Northern Crescent
+25007,2,Northern Crescent
+25019,2,Northern Crescent
+36085,2,Northern Crescent
+29186,1,Heartland
+53055,7,Fruitful Rim
+51520,5,Eastern Uplands
+12086,7,Fruitful Rim
