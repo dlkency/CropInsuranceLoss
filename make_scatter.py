@@ -67,11 +67,38 @@ def fmt(v):
     return "—" if v is None or np.isnan(v) else f"{v:.2f}"
 
 
+DIVISION = {
+    "CT": "New England", "ME": "New England", "MA": "New England", "NH": "New England",
+    "RI": "New England", "VT": "New England",
+    "NJ": "Mid Atlantic", "NY": "Mid Atlantic", "PA": "Mid Atlantic",
+    "IL": "E North Central", "IN": "E North Central", "MI": "E North Central",
+    "OH": "E North Central", "WI": "E North Central",
+    "IA": "W North Central", "KS": "W North Central", "MN": "W North Central",
+    "MO": "W North Central", "NE": "W North Central", "ND": "W North Central", "SD": "W North Central",
+    "DE": "South Atlantic", "FL": "South Atlantic", "GA": "South Atlantic", "MD": "South Atlantic",
+    "NC": "South Atlantic", "SC": "South Atlantic", "VA": "South Atlantic", "DC": "South Atlantic", "WV": "South Atlantic",
+    "AL": "E South Central", "KY": "E South Central", "MS": "E South Central", "TN": "E South Central",
+    "AR": "W South Central", "LA": "W South Central", "OK": "W South Central", "TX": "W South Central",
+    "AZ": "Mountain", "CO": "Mountain", "ID": "Mountain", "MT": "Mountain", "NV": "Mountain",
+    "NM": "Mountain", "UT": "Mountain", "WY": "Mountain",
+    "AK": "Pacific", "CA": "Pacific", "HI": "Pacific", "OR": "Pacific", "WA": "Pacific"}
+
 obs = load_observations()
+obs["division"] = obs.state_abbr.map(DIVISION)
+obs["period"] = pd.cut(obs.year, [2010, 2014, 2018, 2023],
+                       labels=["2011-14", "2015-18", "2019-23"]).astype(str)
+# ERS Farm Resource Region (county-level; from reglink.xls via build_ers_crosswalk.py)
+xw_path = os.path.join(BASE, "ers_region_crosswalk.csv")
+if os.path.exists(xw_path):
+    xw = pd.read_csv(xw_path, dtype={"fips": str})
+    xw["fips"] = xw["fips"].str.zfill(5)
+    obs["ers_region"] = obs.fips.str.zfill(5).map(dict(zip(xw.fips, xw.ers_region)))
+else:
+    obs["ers_region"] = pd.NA
 out_cols = ["match_key", "year", "state_abbr", "fips", "county_name", "crop_name",
-            "plan_abbr", "cov_category", "organic_subtype", "conv_records",
-            "conv_premium", "conv_indemnity", "conv_loss_ratio", "org_records",
-            "org_premium", "org_indemnity", "org_loss_ratio"]
+            "division", "ers_region", "period", "plan_abbr", "cov_category",
+            "organic_subtype", "conv_records", "conv_premium", "conv_indemnity",
+            "conv_loss_ratio", "org_records", "org_premium", "org_indemnity", "org_loss_ratio"]
 (obs[out_cols].sort_values(["crop_name", "year", "organic_subtype", "state_abbr", "county_name"])
  .to_csv(f"{BASE}/observations_topcrops.csv", index=False))
 print("observations:", dict(obs.organic_subtype.value_counts()))
