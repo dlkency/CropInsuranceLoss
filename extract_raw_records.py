@@ -21,8 +21,15 @@ Helper labels added for filtering only (not calculations):
 """
 import os, glob, csv, sys, pickle
 
-DATA_DIR = "/sessions/youthful-sharp-mccarthy/mnt/IRMII Summer Research/CropInsuranceLoss/crop_loss_data/type_practice_usage"
-OUT_DIR  = "/sessions/youthful-sharp-mccarthy/mnt/IRMII Summer Research/CropInsuranceLoss/crop_loss_data/organic_analysis/conv_vs_organic_matched"
+# Paths are resolved relative to this script's location so the repo is portable.
+# Override with env vars if your layout differs:
+#   SOBTPU_DIR  = folder holding the RMA SOBSCCTPU*.TXT source files
+#   ORGANIC_DIR = output folder (defaults to this script's folder)
+HERE = os.path.dirname(os.path.abspath(__file__))
+OUT_DIR = os.environ.get("ORGANIC_DIR", HERE)
+DATA_DIR = os.environ.get(
+    "SOBTPU_DIR",
+    os.path.normpath(os.path.join(OUT_DIR, "..", "..", "type_practice_usage")))
 
 N = 27
 # original 27 field headers (from sobtpu_allyears-doc.docx layout)

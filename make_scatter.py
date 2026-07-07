@@ -1,98 +1,128 @@
 """
-Scatterplot: aggregated ORGANIC loss ratio (y) vs aggregated CONVENTIONAL
-loss ratio (x). One point = one match_key (year|fips|crop|plan|cov_type),
-where each side is aggregated as sum(indemnity)/sum(premium) over its records.
-Top-4 crops by observation count: Corn, Soybeans, Wheat, Oats.
-Grid: one subplot per crop per year (rows = year, cols = crop), 2011-2023.
-Linear full range per cell; y=x reference line (points above = organic worse).
-Outputs: PNG (matplotlib) + interactive HTML (plotly) + observations CSV.
+Scatter grid: aggregated ORGANIC loss ratio (y) vs CONVENTIONAL loss ratio (x).
+Organic is split into CERTIFIED vs TRANSITIONAL (from the Practice Name).
+One observation = one (match_key, organic_subtype); each side is aggregated as
+sum(indemnity)/sum(premium) over its records. Top-4 crops by obs count
+(Corn, Soybeans, Wheat, Oats), years 2011-2023, one subplot per crop per year.
+Each cell prints the organic-vs-conventional R^2 and n separately for
+Certified and Transitional.
+Outputs: observations_topcrops.csv + scatter_org_vs_conv_topcrops.png
 """
+import os
 import pandas as pd, numpy as np
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
+from matplotlib.lines import Line2D
 
-BASE = "/sessions/youthful-sharp-mccarthy/mnt/IRMII Summer Research/CropInsuranceLoss/crop_loss_data/organic_analysis/conv_vs_organic_matched"
-CSV = f"{BASE}/matched_records_raw.csv"
+# Output folder = this script's folder by default (override with ORGANIC_DIR).
+BASE = os.environ.get("ORGANIC_DIR", os.path.dirname(os.path.abspath(__file__)))
+RAW = os.path.join(BASE, "matched_records_raw.csv")
 TOP = ["Corn", "Soybeans", "Wheat", "Oats"]
 YEARS = list(range(2011, 2024))
-COLORS = {"Corn": "#E1A100", "Soybeans": "#2E8B57", "Wheat": "#B5651D", "Oats": "#6A5ACD"}
+CERT, TRANS = "#1b6ca8", "#e8702a"          # Certified = blue, Transitional = orange
 
-df = pd.read_csv(CSV, dtype=str, keep_default_na=False)
-for c in ["premium", "indemnity"]:
-    df[c] = pd.to_numeric(df[c], errors="coerce")
-df["year"] = df["year"].astype(int)
 
-# aggregate each match_key x practice_type -> pooled loss ratio
-g = (df.groupby(["match_key", "practice_type"])
-       .agg(prem=("premium", "sum"), indem=("indemnity", "sum"),
-            recs=("premium", "size")).reset_index())
-g["lr"] = g["indem"] / g["prem"]
-piv = g.pivot(index="match_key", columns="practice_type",
-              values=["lr", "prem", "indem", "recs"])
-piv.columns = [f"{b}_{a}" for a, b in piv.columns]   # e.g. conventional_lr
-meta = df.drop_duplicates("match_key").set_index("match_key")[
-    ["year", "state_abbr", "fips", "county_name", "crop_name", "plan_abbr", "cov_category"]]
-obs = meta.join(piv).reset_index()
-obs = obs.rename(columns={"conventional_lr": "conv_loss_ratio",
-                          "organic_lr": "org_loss_ratio",
-                          "conventional_prem": "conv_premium",
-                          "organic_prem": "org_premium",
-                          "conventional_indem": "conv_indemnity",
-                          "organic_indem": "org_indemnity",
-                          "conventional_recs": "conv_records",
-                          "organic_recs": "org_records"})
-obs4 = obs[obs.crop_name.isin(TOP) & obs.year.isin(YEARS)].copy()
-obs4 = obs4.sort_values(["crop_name", "year", "state_abbr", "county_name"])
-cols = ["match_key", "year", "state_abbr", "fips", "county_name", "crop_name",
-        "plan_abbr", "cov_category", "conv_records", "conv_premium", "conv_indemnity",
-        "conv_loss_ratio", "org_records", "org_premium", "org_indemnity", "org_loss_ratio"]
-obs4[cols].to_csv(f"{BASE}/observations_topcrops.csv", index=False)
-print("observations:", len(obs4), "| per crop:", dict(obs4.crop_name.value_counts()))
+def load_observations():
+    cols = ["match_key", "practice_type", "practice_name", "premium", "indemnity",
+            "year", "state_abbr", "fips", "county_name", "crop_name", "plan_abbr",
+            "cov_category"]
+    df = pd.read_csv(RAW, usecols=cols, dtype=str, keep_default_na=False)
+    df["premium"] = pd.to_numeric(df["premium"], errors="coerce")
+    df["indemnity"] = pd.to_numeric(df["indemnity"], errors="coerce")
+    df["year"] = df["year"].astype(int)
+    pn = df["practice_name"].str.lower()
+    df["org_sub"] = np.where(df.practice_type == "conventional", "conv",
+                    np.where(pn.str.contains("certified"), "Certified",
+                    np.where(pn.str.contains("transitional"), "Transitional", "OtherOrg")))
+    conv = (df[df.org_sub == "conv"].groupby("match_key")
+            .agg(conv_records=("premium", "size"), conv_premium=("premium", "sum"),
+                 conv_indemnity=("indemnity", "sum")))
+    conv["conv_loss_ratio"] = conv.conv_indemnity / conv.conv_premium
+    parts = []
+    for sub in ["Certified", "Transitional"]:
+        g = (df[df.org_sub == sub].groupby("match_key")
+             .agg(org_records=("premium", "size"), org_premium=("premium", "sum"),
+                  org_indemnity=("indemnity", "sum")))
+        g["org_loss_ratio"] = g.org_indemnity / g.org_premium
+        g["organic_subtype"] = sub
+        parts.append(g.join(conv, how="inner"))
+    obs = pd.concat(parts).reset_index()
+    meta = df.drop_duplicates("match_key").set_index("match_key")[
+        ["year", "state_abbr", "fips", "county_name", "crop_name", "plan_abbr", "cov_category"]]
+    obs = obs.join(meta, on="match_key")
+    obs = obs[obs.crop_name.isin(TOP) & obs.year.between(2011, 2023)].copy()
+    return obs
 
-# ---------------- PNG facet grid ----------------
+
+def r2(x, y):
+    x = np.asarray(x, float); y = np.asarray(y, float)
+    if len(x) < 3 or np.ptp(x) == 0:
+        return None
+    r = np.corrcoef(x, y)[0, 1]
+    return r * r
+
+
+def fmt(v):
+    return "—" if v is None or np.isnan(v) else f"{v:.2f}"
+
+
+obs = load_observations()
+out_cols = ["match_key", "year", "state_abbr", "fips", "county_name", "crop_name",
+            "plan_abbr", "cov_category", "organic_subtype", "conv_records",
+            "conv_premium", "conv_indemnity", "conv_loss_ratio", "org_records",
+            "org_premium", "org_indemnity", "org_loss_ratio"]
+(obs[out_cols].sort_values(["crop_name", "year", "organic_subtype", "state_abbr", "county_name"])
+ .to_csv(f"{BASE}/observations_topcrops.csv", index=False))
+print("observations:", dict(obs.organic_subtype.value_counts()))
+
+# ---------------- PNG ----------------
 nR, nC = len(YEARS), len(TOP)
-fig, axes = plt.subplots(nR, nC, figsize=(3.0 * nC, 2.8 * nR))
+fig, axes = plt.subplots(nR, nC, figsize=(3.0 * nC, 2.55 * nR))
 for i, yr in enumerate(YEARS):
     for j, crop in enumerate(TOP):
         ax = axes[i, j]
-        d = obs4[(obs4.year == yr) & (obs4.crop_name == crop)]
+        d = obs[(obs.year == yr) & (obs.crop_name == crop)]
+        dc = d[d.organic_subtype == "Certified"]
+        dt = d[d.organic_subtype == "Transitional"]
         if len(d):
             m = max(d.conv_loss_ratio.max(), d.org_loss_ratio.max()) * 1.08
             m = max(m, 0.5)
-            ax.plot([0, m], [0, m], ls="--", lw=0.8, color="#999999", zorder=1)
-            ax.scatter(d.conv_loss_ratio, d.org_loss_ratio, s=14, alpha=0.45,
-                       color=COLORS[crop], edgecolors="none", zorder=2)
+            ax.plot([0, m], [0, m], ls="--", lw=0.8, color="#bbbbbb", zorder=1)
+            for dd, col in [(dc, CERT), (dt, TRANS)]:
+                if len(dd):
+                    ax.scatter(dd.conv_loss_ratio, dd.org_loss_ratio, s=13, alpha=0.5,
+                               color=col, edgecolors="none", zorder=2)
+                if len(dd) >= 3 and np.ptp(dd.conv_loss_ratio) > 0:
+                    b = np.polyfit(dd.conv_loss_ratio, dd.org_loss_ratio, 1)
+                    xs = np.array([0, m]); ax.plot(xs, b[0] * xs + b[1], color=col, lw=1.2, zorder=3)
             ax.set_xlim(0, m); ax.set_ylim(0, m)
-            ax.text(0.04, 0.92, f"n={len(d)}", transform=ax.transAxes,
-                    fontsize=7, color="#444444", va="top")
+            ax.text(0.04, 0.975, f"C R²={fmt(r2(dc.conv_loss_ratio, dc.org_loss_ratio))} n={len(dc)}",
+                    transform=ax.transAxes, fontsize=6.3, color=CERT, va="top", fontweight="bold")
+            ax.text(0.04, 0.875, f"T R²={fmt(r2(dt.conv_loss_ratio, dt.org_loss_ratio))} n={len(dt)}",
+                    transform=ax.transAxes, fontsize=6.3, color=TRANS, va="top", fontweight="bold")
         else:
             ax.set_xticks([]); ax.set_yticks([])
         ax.tick_params(labelsize=6.5)
         if i == 0:
-            ax.set_title(crop, fontsize=11, color=COLORS[crop], fontweight="bold")
+            ax.set_title(crop, fontsize=11, fontweight="bold")
         if j == 0:
             ax.set_ylabel(f"{yr}", fontsize=10, fontweight="bold", rotation=0,
                           ha="right", va="center", labelpad=22)
         if i == nR - 1:
             ax.set_xlabel("conv. LR", fontsize=7)
-fig.text(0.005, 0.5, "aggregated ORGANIC loss ratio", rotation=90,
-         va="center", fontsize=11)
-fig.tight_layout(rect=[0.02, 0, 1, 0.951])
 
-fig.suptitle("Organic vs. Conventional loss ratio by crop and year",
-             fontsize=14, y=0.992, fontweight="bold")
-agg_note = (
-    r"$\bf{How\ each\ point\ is\ aggregated}$ — one point = one match_key = "
-    "year | county(FIPS) | crop | insurance plan | coverage type (A/C)\n"
-    r"x = conventional LR = $\Sigma$(conv indemnity) / $\Sigma$(conv premium)"
-    "        "
-    r"y = organic LR = $\Sigma$(org indemnity) / $\Sigma$(org premium)"
-    "\n(premium-weighted pooling over every record in the match_key; "
-    "records whose loss ratio = 0 are already excluded.  dashed line = y=x: above it ⇒ organic worse)")
-fig.text(0.5, 0.978, agg_note, ha="center", va="top", fontsize=9.5,
-         linespacing=1.5,
+fig.text(0.005, 0.5, "aggregated ORGANIC loss ratio", rotation=90, va="center", fontsize=11)
+fig.tight_layout(rect=[0.02, 0, 1, 0.949])
+fig.suptitle("Organic (Certified vs. Transitional) vs. Conventional loss ratio, by crop and year",
+             fontsize=13.5, y=0.992, fontweight="bold")
+note = (r"$\bf{One\ point = one\ match\_key}$ (year | county(FIPS) | crop | insurance plan | coverage type A/C).  "
+        r"x = conventional LR = $\Sigma$conv indemnity / $\Sigma$conv premium;  "
+        r"y = organic LR = $\Sigma$org indemnity / $\Sigma$org premium." + "\n"
+        r"$\bf{Blue}$ = Organic Certified, $\bf{Orange}$ = Organic Transitional.  "
+        "Each cell shows the organic-vs-conventional $R^2$ and n for each subtype "
+        "(solid line = its OLS fit; dashed = y=x). Premium-weighted; loss ratio = 0 excluded.")
+fig.text(0.5, 0.977, note, ha="center", va="top", fontsize=9, linespacing=1.5,
          bbox=dict(boxstyle="round,pad=0.5", fc="#f4f6f8", ec="#b7c2cc", lw=1))
-fig.savefig(f"{BASE}/scatter_org_vs_conv_topcrops.png", dpi=130,
-            bbox_inches="tight")
+fig.savefig(f"{BASE}/scatter_org_vs_conv_topcrops.png", dpi=118, bbox_inches="tight")
 print("saved PNG")
