@@ -1,0 +1,131 @@
+ers_region,period,subtype,match_keys,org_loss_per_acre,conv_loss_per_acre,ratio_org_over_conv,org_indemnity,org_acres,conv_indemnity,conv_acres
+Basin and Range,2006,certified organic,2,87.91,208.11,0.422,200785.0,2284.0,1006398.0,4836.0
+Basin and Range,2007,certified organic,2,42.74,184.69,0.231,123391.0,2887.0,758354.0,4106.0
+Basin and Range,2008,certified organic,2,0.0,51.11,0.0,0.0,2146.0,202453.0,3961.0
+Basin and Range,2009,certified organic,2,10.31,0.0,,18970.0,1840.0,0.0,7053.0
+Basin and Range,2010,certified organic,3,0.0,45.54,0.0,0.0,2339.0,347877.0,7639.0
+Basin and Range,2011-14,certified organic,273,78.82,51.73,1.524,14429116.0,183070.0,97386165.0,1882681.0
+Basin and Range,2015-18,certified organic,314,127.89,43.25,2.957,31139097.0,243474.0,76991159.0,1780331.0
+Basin and Range,2019-23,certified organic,354,302.84,120.35,2.516,124259536.0,410317.0,226530985.0,1882270.0
+Basin and Range,2024,certified organic,23,0.0,0.0,,0.0,26165.0,0.0,99603.0
+Basin and Range,2025,certified organic,24,4.53,1.79,2.531,156222.0,34477.0,88712.0,49426.0
+Eastern Uplands,2011-14,certified organic,24,169.9,133.51,1.273,428158.0,2520.0,48769772.0,365283.0
+Eastern Uplands,2015-18,certified organic,46,170.18,25.38,6.705,679681.0,3994.0,13740102.0,541395.0
+Eastern Uplands,2019-23,certified organic,75,228.44,48.84,4.677,3849186.0,16850.0,40729267.0,833863.0
+Eastern Uplands,2024,certified organic,5,0.0,0.19,0.0,0.0,1976.0,15148.0,79046.0
+Eastern Uplands,2025,certified organic,3,29.86,5.08,5.878,67897.0,2274.0,382374.0,75267.0
+Fruitful Rim,2006,certified organic,22,22.3,16.05,1.389,215017.0,9643.0,6685717.0,416496.0
+Fruitful Rim,2007,certified organic,17,5.5,7.52,0.731,78171.0,14221.0,2900758.0,385637.0
+Fruitful Rim,2008,certified organic,23,19.25,5.49,3.506,271024.0,14079.0,2269626.0,413780.0
+Fruitful Rim,2009,certified organic,23,19.31,12.58,1.535,238246.0,12341.0,6156329.0,489565.0
+Fruitful Rim,2010,certified organic,21,8.37,5.94,1.409,140930.0,16835.0,2673689.0,450191.0
+Fruitful Rim,2011-14,certified organic,1300,101.59,55.07,1.845,39508905.0,388888.0,620883711.0,11274006.0
+Fruitful Rim,2015-18,certified organic,1469,180.91,71.89,2.516,106640323.0,589454.0,945365064.0,13150090.0
+Fruitful Rim,2019-23,certified organic,1901,370.43,164.2,2.256,343947531.0,928499.0,3011497784.0,18340768.0
+Fruitful Rim,2024,certified organic,235,3.28,1.28,2.562,307838.0,93957.0,2194210.0,1716259.0
+Fruitful Rim,2025,certified organic,279,5.41,2.94,1.84,676051.0,124881.0,7067767.0,2402174.0
+Heartland,2008,certified organic,1,0.0,0.0,,0.0,34.0,0.0,27907.0
+Heartland,2011-14,certified organic,2139,171.21,66.21,2.586,59549918.0,347810.0,8334173612.0,125873113.0
+Heartland,2015-18,certified organic,2652,69.85,10.18,6.861,36643162.0,524577.0,1608947665.0,158033189.0
+Heartland,2019-23,certified organic,4047,102.91,27.38,3.759,132407361.0,1286632.0,6377475662.0,232899399.0
+Heartland,2024,certified organic,108,0.0,0.18,0.0,0.0,17702.0,64156.0,358257.0
+Heartland,2025,certified organic,103,2.34,1.69,1.385,41825.0,17859.0,657144.0,388869.0
+Mississippi Portal,2006,certified organic,1,0.0,0.0,,0.0,357.0,0.0,5401.0
+Mississippi Portal,2008,certified organic,1,0.0,0.48,0.0,0.0,46.0,15899.0,32889.0
+Mississippi Portal,2009,certified organic,4,0.0,3.0,0.0,0.0,211.0,359938.0,119787.0
+Mississippi Portal,2010,certified organic,3,0.0,12.34,0.0,0.0,291.0,1070661.0,86746.0
+Mississippi Portal,2011-14,certified organic,11,213.89,43.79,4.884,232708.0,1088.0,2649649.0,60514.0
+Mississippi Portal,2015-18,certified organic,53,155.76,43.85,3.552,3387835.0,21751.0,24910634.0,568044.0
+Mississippi Portal,2019-23,certified organic,101,296.26,52.47,5.646,10399362.0,35102.0,70598336.0,1345407.0
+Mississippi Portal,2024,certified organic,1,0.0,0.0,,0.0,517.0,0.0,31509.0
+Mississippi Portal,2025,certified organic,3,66.19,7.72,8.574,58442.0,883.0,95390.0,12359.0
+Northern Crescent,2011-14,certified organic,1574,120.65,62.97,1.916,29853782.0,247443.0,1626337236.0,25826647.0
+Northern Crescent,2015-18,certified organic,1863,72.74,16.06,4.529,27225234.0,374303.0,504832867.0,31439369.0
+Northern Crescent,2019-23,certified organic,2557,104.97,29.09,3.608,71103573.0,677351.0,1319653722.0,45369978.0
+Northern Crescent,2024,certified organic,77,2.81,4.36,0.644,32682.0,11626.0,1212516.0,277869.0
+Northern Crescent,2025,certified organic,85,0.0,0.55,0.0,0.0,12393.0,203430.0,372606.0
+Northern Great Plains,2011-14,certified organic,796,89.61,34.56,2.593,22788679.0,254320.0,1155750430.0,33438455.0
+Northern Great Plains,2015-18,certified organic,973,61.06,15.21,4.014,23666584.0,387587.0,654713654.0,43056281.0
+Northern Great Plains,2019-23,certified organic,1466,129.06,50.56,2.553,120113585.0,930672.0,3686130511.0,72901327.0
+Northern Great Plains,2024,certified organic,26,0.0,0.0,,0.0,12249.0,0.0,295607.0
+Northern Great Plains,2025,certified organic,28,59.92,1.58,37.924,525893.0,8777.0,706137.0,447693.0
+Prairie Gateway,2006,certified organic,1,0.0,0.0,,0.0,37.0,0.0,7385.0
+Prairie Gateway,2007,certified organic,1,0.0,0.89,0.0,0.0,130.0,13067.0,14760.0
+Prairie Gateway,2008,certified organic,2,0.0,2.62,0.0,0.0,582.0,29054.0,11075.0
+Prairie Gateway,2009,certified organic,3,0.0,0.83,0.0,0.0,1644.0,16616.0,20024.0
+Prairie Gateway,2010,certified organic,3,0.0,9.33,0.0,0.0,1672.0,186464.0,19988.0
+Prairie Gateway,2011-14,certified organic,618,131.63,84.92,1.55,32072296.0,243652.0,2645105321.0,31149089.0
+Prairie Gateway,2015-18,certified organic,964,127.19,35.88,3.545,73803469.0,580282.0,1607183033.0,44790497.0
+Prairie Gateway,2019-23,certified organic,1561,297.46,89.07,3.34,382004526.0,1284200.0,6637909236.0,74525241.0
+Prairie Gateway,2024,certified organic,59,0.0,0.02,0.0,0.0,38730.0,49587.0,3132084.0
+Prairie Gateway,2025,certified organic,64,0.64,1.26,0.508,29634.0,46536.0,3735269.0,2969478.0
+Southern Seaboard,2011-14,certified organic,171,55.57,25.88,2.147,1055765.0,18998.0,38953734.0,1505006.0
+Southern Seaboard,2015-18,certified organic,419,87.27,32.48,2.687,4920586.0,56381.0,116510890.0,3587628.0
+Southern Seaboard,2019-23,certified organic,851,108.57,34.8,3.12,24004066.0,221099.0,246966321.0,7096277.0
+Southern Seaboard,2024,certified organic,33,0.0,0.0,,0.0,5073.0,0.0,56274.0
+Southern Seaboard,2025,certified organic,29,2.8,0.31,9.032,13178.0,4706.0,16621.0,53418.0
+,2008,certified organic,1,0.0,0.0,,0.0,950.0,0.0,387.0
+,2009,certified organic,1,0.0,16.19,0.0,0.0,460.0,42345.0,2615.0
+,2010,certified organic,1,0.0,2.79,0.0,0.0,504.0,6553.0,2348.0
+,2011-14,certified organic,149,87.48,33.38,2.621,3128439.0,35760.0,53751887.0,1610378.0
+,2015-18,certified organic,201,98.16,71.63,1.37,6538307.0,66607.0,58005598.0,809770.0
+,2019-23,certified organic,286,313.88,106.3,2.953,38757975.0,123480.0,155718983.0,1464886.0
+,2024,certified organic,18,3.41,0.0,,16661.0,4882.0,0.0,48638.0
+,2025,certified organic,22,0.0,0.22,0.0,0.0,9477.0,15382.0,68650.0
+Basin and Range,2011-14,transitional organic,25,128.47,109.3,1.175,494613.0,3850.0,16589110.0,151773.0
+Basin and Range,2015-18,transitional organic,39,7.65,30.78,0.249,49852.0,6517.0,3485343.0,113247.0
+Basin and Range,2019-23,transitional organic,31,155.91,169.6,0.919,1031816.0,6618.0,21293570.0,125550.0
+Basin and Range,2024,transitional organic,6,0.0,0.0,,0.0,268.0,0.0,9731.0
+Basin and Range,2025,transitional organic,4,0.0,7.52,0.0,0.0,213.0,66191.0,8805.0
+Eastern Uplands,2015-18,transitional organic,7,1.42,34.32,0.041,255.0,179.0,1542095.0,44927.0
+Eastern Uplands,2019-23,transitional organic,17,94.61,28.61,3.307,56955.0,602.0,5013231.0,175241.0
+Eastern Uplands,2024,transitional organic,2,0.0,0.0,,0.0,124.0,0.0,483.0
+Eastern Uplands,2025,transitional organic,1,0.0,3.93,0.0,0.0,373.0,117032.0,29809.0
+Fruitful Rim,2006,transitional organic,4,43.14,37.24,1.158,28732.0,666.0,3591767.0,96460.0
+Fruitful Rim,2007,transitional organic,11,34.39,9.44,3.643,81777.0,2378.0,1999051.0,211707.0
+Fruitful Rim,2008,transitional organic,7,7.74,3.34,2.317,19305.0,2493.0,425874.0,127675.0
+Fruitful Rim,2009,transitional organic,7,11.1,11.11,0.999,30607.0,2758.0,1421590.0,127974.0
+Fruitful Rim,2010,transitional organic,9,51.66,19.52,2.647,114060.0,2208.0,1654323.0,84766.0
+Fruitful Rim,2011-14,transitional organic,218,155.74,76.72,2.03,3491316.0,22418.0,220920433.0,2879603.0
+Fruitful Rim,2015-18,transitional organic,284,213.68,78.77,2.713,9256818.0,43320.0,307908597.0,3909204.0
+Fruitful Rim,2019-23,transitional organic,489,248.79,229.59,1.084,17736178.0,71290.0,1266510053.0,5516375.0
+Fruitful Rim,2024,transitional organic,56,19.94,2.72,7.331,110997.0,5567.0,1842726.0,677787.0
+Fruitful Rim,2025,transitional organic,70,0.0,2.0,0.0,0.0,6955.0,2437839.0,1218309.0
+Heartland,2011-14,transitional organic,313,79.24,60.48,1.31,1733194.0,21874.0,1349069335.0,22307546.0
+Heartland,2015-18,transitional organic,626,25.4,12.22,2.079,2022582.0,79616.0,600052394.0,49106839.0
+Heartland,2019-23,transitional organic,934,20.39,20.41,0.999,2913348.0,142854.0,1474564519.0,72257740.0
+Heartland,2024,transitional organic,21,0.0,0.25,0.0,0.0,3701.0,9113.0,36984.0
+Heartland,2025,transitional organic,21,0.0,0.84,0.0,0.0,8446.0,40519.0,48280.0
+Mississippi Portal,2006,transitional organic,1,0.0,0.0,,0.0,108.0,0.0,7047.0
+Mississippi Portal,2007,transitional organic,1,0.0,1.42,0.0,0.0,43.0,15282.0,10788.0
+Mississippi Portal,2011-14,transitional organic,3,204.34,85.9,2.379,15734.0,77.0,10185857.0,118572.0
+Mississippi Portal,2015-18,transitional organic,17,136.27,41.56,3.279,555566.0,4077.0,13924914.0,335043.0
+Mississippi Portal,2019-23,transitional organic,13,188.15,86.23,2.182,218065.0,1159.0,24113073.0,279646.0
+Northern Crescent,2011-14,transitional organic,155,87.28,81.25,1.074,707093.0,8101.0,319282160.0,3929853.0
+Northern Crescent,2015-18,transitional organic,350,20.46,10.72,1.909,740373.0,36180.0,95978654.0,8951024.0
+Northern Crescent,2019-23,transitional organic,379,53.77,35.12,1.531,2053999.0,38200.0,384814529.0,10958501.0
+Northern Crescent,2024,transitional organic,14,0.0,2.28,0.0,0.0,430.0,132604.0,58116.0
+Northern Crescent,2025,transitional organic,6,0.0,0.0,,0.0,335.0,0.0,21182.0
+Northern Great Plains,2011-14,transitional organic,59,33.56,37.42,0.897,371076.0,11057.0,101707016.0,2717884.0
+Northern Great Plains,2015-18,transitional organic,143,13.6,12.91,1.053,379104.0,27871.0,107206991.0,8306162.0
+Northern Great Plains,2019-23,transitional organic,164,56.82,41.68,1.363,2016580.0,35492.0,364297172.0,8740471.0
+Northern Great Plains,2024,transitional organic,3,0.0,0.0,,0.0,385.0,0.0,128176.0
+Northern Great Plains,2025,transitional organic,1,0.0,0.0,,0.0,164.0,0.0,456.0
+Prairie Gateway,2007,transitional organic,2,0.0,44.17,0.0,0.0,145.0,42537.0,963.0
+Prairie Gateway,2008,transitional organic,3,24.18,1.3,18.6,9358.0,387.0,29054.0,22324.0
+Prairie Gateway,2009,transitional organic,2,43.45,1.04,41.779,21988.0,506.0,16616.0,15993.0
+Prairie Gateway,2010,transitional organic,2,24.59,3.96,6.21,7820.0,318.0,48712.0,12305.0
+Prairie Gateway,2011-14,transitional organic,120,73.78,115.5,0.639,1294469.0,17546.0,964286157.0,8348580.0
+Prairie Gateway,2015-18,transitional organic,207,51.13,37.11,1.378,2833318.0,55409.0,500170971.0,13478838.0
+Prairie Gateway,2019-23,transitional organic,242,148.37,104.3,1.423,11221474.0,75631.0,2261359731.0,21681001.0
+Prairie Gateway,2024,transitional organic,9,0.0,0.0,,0.0,1869.0,0.0,851168.0
+Prairie Gateway,2025,transitional organic,7,0.0,0.18,0.0,0.0,1361.0,82246.0,452554.0
+Southern Seaboard,2011-14,transitional organic,32,22.66,31.33,0.723,94717.0,4180.0,12389507.0,395454.0
+Southern Seaboard,2015-18,transitional organic,83,17.31,23.1,0.749,135101.0,7805.0,30125977.0,1304014.0
+Southern Seaboard,2019-23,transitional organic,76,12.41,27.26,0.455,87859.0,7078.0,23675672.0,868534.0
+Southern Seaboard,2024,transitional organic,1,0.0,2.38,0.0,0.0,323.0,6332.0,2661.0
+,2011-14,transitional organic,16,37.58,12.85,2.925,57081.0,1519.0,4911019.0,382161.0
+,2015-18,transitional organic,23,58.93,106.48,0.553,282788.0,4799.0,12419994.0,116643.0
+,2019-23,transitional organic,45,49.85,182.22,0.274,290607.0,5830.0,41394462.0,227167.0
+,2024,transitional organic,6,0.0,0.0,,0.0,439.0,0.0,13602.0
+,2025,transitional organic,5,0.0,0.19,0.0,0.0,559.0,4508.0,23546.0

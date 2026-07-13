@@ -1,0 +1,14 @@
+
+===== WLS (weight = liability / exposure) =====  (n=5304, R2=0.500)
+  cov_level          coef=+0.1388  SE=0.0332  t=+4.18  p=2.96e-05
+  cov_level:cert     coef=+0.4492  SE=0.0879  t=+5.11  p=3.24e-07
+  cov_level:trans    coef=+0.0649  SE=0.0875  t=+0.74  p=4.58e-01
+  cert               coef=-0.2254  SE=0.0620  t=-3.63  p=2.79e-04
+  trans              coef=+0.0052  SE=0.0652  t=+0.08  p=9.36e-01
+
+===== OLS (unweighted, each cell equal) =====  (n=5304, R2=0.186)
+  cov_level          coef=+0.2093  SE=0.0219  t=+9.55  p=1.29e-21
+  cov_level:cert     coef=+0.3376  SE=0.0514  t=+6.57  p=4.94e-11
+  cov_level:trans    coef=+0.0790  SE=0.0863  t=+0.92  p=3.60e-01
+  cert               coef=-0.1054  SE=0.0350  t=-3.01  p=2.58e-03
+  trans              coef=+0.0507  SE=0.0616  t=+0.82  p=4.11e-01
