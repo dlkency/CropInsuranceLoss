@@ -1,0 +1,106 @@
+cause,indemnity,share,group
+Heat,120802748.01,0.1748,top10
+Freeze,93279509.13,0.1349,top10
+Failure of Irrigation Supply,88499152.41,0.128,top10
+Excess Moisture/Precipitation/Rain,58621107.34,0.0848,top10
+Decline in Price,54467562.35,0.0788,top10
+Drought,42347562.55,0.0613,top10
+Cold Wet Weather,34062488.29,0.0493,top10
+Frost,30966990.9,0.0448,top10
+ARPI/SCO/ECO/STAX/MP/HIP-WI/PACE Crops Only,30859904.0,0.0446,top10
+Hail,30281983.18,0.0438,top10
+Wind/Excess Wind,18275655.21,0.0264,top10
+ARPI/SCO/STAX/MP Crops Only,16144865.0,0.0234,top10
+ARPI/SCO/ECO/STAX/MP/HIP WI Crops Only,16129645.0,0.0233,top10
+ARPI/SCO/STAX/MP/HIP WI Crops Only,13365702.0,0.0193,top10
+Insects,11206932.0,0.0162,top10
+Cold Winter,9066930.4,0.0131,top10
+Hurricane/Tropical Depression,6330716.73,0.0092,top10
+"Other (Snow, Lightning, Etc.)",5774109.27,0.0084,top10
+Plant Disease,2637281.61,0.0038,top10
+Hot Wind,2364170.62,0.0034,top10
+ARPI/SCO/STAX Crops Only,1989369.0,0.0029,top10
+Fire,1653345.4,0.0024,top10
+Wildlife,1551893.85,0.0022,top10
+Falling Numbers,306965.35,0.0004,top10
+Failure of Irrigation Equipment,142289.0,0.0002,top10
+All Other Causes,130757.35,0.0002,top10
+Mycotoxin,9158.0,0.0,top10
+Excess Sun,7182.0,0.0,top10
+Flood,4130.5,0.0,top10
+nan,3304.55,0.0,top10
+Heat,222314212.31,0.1246,top25
+Failure of Irrigation Supply,198394952.57,0.1112,top25
+Drought,179443592.18,0.1006,top25
+Excess Moisture/Precipitation/Rain,165942669.96,0.093,top25
+Freeze,154412289.71,0.0865,top25
+Decline in Price,140579724.73,0.0788,top25
+Hail,111616863.96,0.0625,top25
+Hot Wind,108637691.55,0.0609,top25
+ARPI/SCO/ECO/STAX/MP/HIP-WI/PACE Crops Only,107832934.0,0.0604,top25
+Wind/Excess Wind,72495494.9,0.0406,top25
+Frost,69896496.43,0.0392,top25
+Cold Wet Weather,59021565.27,0.0331,top25
+ARPI/SCO/ECO/STAX/MP/HIP WI Crops Only,46106855.0,0.0258,top25
+ARPI/SCO/STAX/MP Crops Only,39965611.0,0.0224,top25
+ARPI/SCO/STAX/MP/HIP WI Crops Only,28971084.0,0.0162,top25
+Cold Winter,26587191.53,0.0149,top25
+Insects,12343631.18,0.0069,top25
+Hurricane/Tropical Depression,10742960.41,0.006,top25
+"Other (Snow, Lightning, Etc.)",9113544.87,0.0051,top25
+Plant Disease,5362604.79,0.003,top25
+ARPI/SCO/STAX Crops Only,3875090.0,0.0022,top25
+Wildlife,3697147.65,0.0021,top25
+Fire,2459336.46,0.0014,top25
+Failure of Irrigation Equipment,1114983.0,0.0006,top25
+Falling Numbers,1077255.65,0.0006,top25
+Flood,937322.99,0.0005,top25
+All Other Causes,703322.4,0.0004,top25
+nan,393067.25,0.0002,top25
+Mycotoxin,327085.25,0.0002,top25
+Excess Sun,225076.0,0.0001,top25
+Inability to Prepare Land for Irrigation,15357.0,0.0,top25
+Drought,6384291960.9,0.2937,zero
+Excess Moisture/Precipitation/Rain,5476887109.52,0.252,zero
+ARPI/SCO/ECO/STAX/MP/HIP-WI/PACE Crops Only,1994428123.0,0.0918,zero
+Heat,1037856383.28,0.0477,zero
+ARPI/SCO/STAX/MP Crops Only,1003463170.0,0.0462,zero
+Hurricane/Tropical Depression,796213316.12,0.0366,zero
+Hail,780487910.34,0.0359,zero
+ARPI/SCO/ECO/STAX/MP/HIP WI Crops Only,623195753.0,0.0287,zero
+Freeze,600996144.0,0.0277,zero
+ARPI/SCO/STAX/MP/HIP WI Crops Only,579965077.0,0.0267,zero
+Wind/Excess Wind,376362261.34,0.0173,zero
+Flood,346834859.88,0.016,zero
+Decline in Price,330512551.97,0.0152,zero
+Cold Wet Weather,262342385.56,0.0121,zero
+Hot Wind,213581545.11,0.0098,zero
+Fire,188647982.46,0.0087,zero
+Failure of Irrigation Supply,108582089.92,0.005,zero
+Frost,91564938.94,0.0042,zero
+ARPI/SCO/STAX Crops Only,88586906.0,0.0041,zero
+Cold Winter,76142519.53,0.0035,zero
+Wildlife,73800943.63,0.0034,zero
+Plant Disease,62645167.26,0.0029,zero
+All Other Causes,46977301.99,0.0022,zero
+"Other (Snow, Lightning, Etc.)",42249016.9,0.0019,zero
+Mycotoxin,32567605.42,0.0015,zero
+Insects,29144224.66,0.0013,zero
+Tropical Storm,24909134.15,0.0011,zero
+Insufficient Chilling Hours,12304239.36,0.0006,zero
+Falling Numbers,9668019.31,0.0004,zero
+nan,8962307.32,0.0004,zero
+Post Bloom Fruit Drop,8630348.0,0.0004,zero
+Excess Sun,7641299.95,0.0004,zero
+Oxygen Depletion,4598648.0,0.0002,zero
+House burn (Pole burn),3185054.77,0.0001,zero
+Failure of Irrigation Equipment,2421944.51,0.0001,zero
+Tornado,2263171.85,0.0001,zero
+Hurricane,740918.0,0.0,zero
+Inability to Prepare Land for Irrigation,707285.21,0.0,zero
+Storm Surge,541663.0,0.0,zero
+Asian Soybean Rust,398748.7,0.0,zero
+Earthquake,325208.54,0.0,zero
+Cyclone,99927.0,0.0,zero
+Tropical Depression,20726.1,0.0,zero
+Federal or State Ordered Destruction,-9120.5,-0.0,zero

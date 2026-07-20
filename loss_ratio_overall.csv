@@ -1,0 +1,3 @@
+subtype,match_keys,org_loss_per_acre,conv_loss_per_acre,ratio_org_over_conv,org_indemnity,org_acres,conv_indemnity,conv_acres
+certified organic,30573,160.39,41.93,3.825,1771751602.0,11046834.0,42049418631.0,1002870844.0
+transitional organic,5392,79.74,41.87,1.904,62566575.0,784671.0,10553176452.0,252027244.0

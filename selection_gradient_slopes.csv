@@ -1,0 +1,13 @@
+panel,group,slope_per_10pp_coverage,r_squared,n_levels
+ALL crops,conventional,-0.00051,0.001,9
+ALL crops,certified organic,0.07048,0.959,8
+ALL crops,transitional organic,0.0602,0.896,7
+Corn,conventional,0.00616,0.214,9
+Corn,certified organic,0.05539,0.947,7
+Corn,transitional organic,-0.02653,0.239,4
+Soybeans,conventional,0.00633,0.506,8
+Soybeans,certified organic,0.02531,0.426,7
+Soybeans,transitional organic,0.00781,0.052,3
+Wheat,conventional,0.00416,0.029,8
+Wheat,certified organic,0.07476,0.808,7
+Wheat,transitional organic,,,2

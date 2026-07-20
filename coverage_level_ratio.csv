@@ -1,0 +1,19 @@
+cov_level,subtype,org_loss_per_acre,conv_loss_per_acre,ratio_org_over_conv,org_acres,conv_acres
+0.5,certified organic,48.31,20.51,2.355,1472495.0,35791636.0
+0.5,transitional organic,31.13,20.51,1.518,102304.0,35791636.0
+0.55,certified organic,120.72,54.63,2.21,54300.0,3502865.0
+0.55,transitional organic,39.09,54.63,0.716,6222.0,3502865.0
+0.6,certified organic,100.52,68.11,1.476,553160.0,25712078.0
+0.6,transitional organic,79.67,68.11,1.17,35300.0,25712078.0
+0.65,certified organic,104.68,45.89,2.281,902871.0,46028953.0
+0.65,transitional organic,69.14,45.89,1.507,59780.0,46028953.0
+0.7,certified organic,136.58,46.91,2.912,2089867.0,165263115.0
+0.7,transitional organic,79.79,46.91,1.701,128348.0,165263115.0
+0.75,certified organic,180.85,42.52,4.253,3045758.0,299382255.0
+0.75,transitional organic,89.51,42.52,2.105,212183.0,299382255.0
+0.8,certified organic,191.56,35.19,5.444,1788200.0,270229404.0
+0.8,transitional organic,78.58,35.19,2.233,135325.0,270229404.0
+0.85,certified organic,324.23,43.82,7.399,1125949.0,185447052.0
+0.85,transitional organic,119.15,43.82,2.719,102875.0,185447052.0
+0.9,certified organic,5.99,23.24,0.258,14234.0,626039.0
+0.9,transitional organic,28.89,23.24,1.243,2334.0,626039.0
